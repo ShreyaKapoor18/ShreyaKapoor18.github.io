@@ -23,7 +23,6 @@ Accompanying Presentation:
   <title>Building an Image Database with Searchable Metadata</title>
 </head>
 <body>
-  <h1>Slides Presentation</h1>
   <iframe 
     src="https://docs.google.com/presentation/d/1hcDu4EyV7T8GbWCOgNJOvSjPh-W2dfmhAbXcoYHIm8U/embed" 
     frameborder="0" 
