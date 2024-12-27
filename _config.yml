@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : " PhD @FAU Erlangen, Germany | Former Data Analyst at Max Planck Institute for Human Cognitive and Brain Sciences | BSc.(H) Physics and M.Sc. Life Science Informatics."
   location         : "Erlangen, Germany"
-  employer         : "Friedrich-Alexander-Universität Erlangen-Nüremberg"
+  employer         : "Friedrich-Alexander-Universität \\ 
+                      "Erlangen-Nüremberg"
   pubmed           :
   googlescholar    : 
   email            : "shreya.kapoor@fau.de"
