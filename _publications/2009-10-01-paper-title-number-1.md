@@ -14,7 +14,8 @@ Book: Computational Life Sciences - Data Engineering and Data Mining for Life Sc
 Book Series: Studies in Big Data <br>
 Publisher: Springer Nature Switzerland AG, Gewerbestrasse 11, 6330 Cham, Switzerland
 Accompanying Presentation:
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
