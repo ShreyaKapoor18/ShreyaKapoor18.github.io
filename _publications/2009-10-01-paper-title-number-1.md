@@ -14,3 +14,24 @@ Link to paper: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-08411
 Book: Computational Life Sciences - Data Engineering and Data Mining for Life Sciences <br>
 Book Series: Studies in Big Data <br>
 Publisher: Springer Nature Switzerland AG, Gewerbestrasse 11, 6330 Cham, Switzerland
+Accompanying Presentation:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Building an Image Database with Searchable Metadata</title>
+</head>
+<body>
+  <h1>Slides Presentation</h1>
+  <iframe 
+    src="https://docs.google.com/presentation/d/1hcDu4EyV7T8GbWCOgNJOvSjPh-W2dfmhAbXcoYHIm8U/embed" 
+    frameborder="0" 
+    width="960" 
+    height="569" 
+    allowfullscreen="true" 
+    mozallowfullscreen="true" 
+    webkitallowfullscreen="true">
+  </iframe>
+</body>
+</html>
