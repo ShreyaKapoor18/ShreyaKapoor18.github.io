@@ -2,7 +2,7 @@
 title: "A meta-analysis of mental rotation in the early years of life"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: ''
+excerpt: 'Mental rotation, the cognitive process of moving an object in mind to predict how it looks in a new orientation, is coupled to intelligence, learning, and educational achievement. On average, adolescent and adult males solve mental rotation tasks slightly better (i.e., faster and/or more accurate) than females. When such behavioral differences emerge during development, however, remains poorly understood. Here we analyzed effect sizes derived from 62 experiments conducted in 1705 infants aged 3–16 months. We found that male infants recognized rotated objects slightly more reliably than female infants. This difference survives correction for small degrees of publication bias. These findings indicate that gender differences in mental rotation are small and not robustly detectable in the first months of postnatal life'
 date: 2015-10-01
 venue: 'Journal 1'
 doi: 'https://doi.org/10.1080/15248372.2015.1058262'
