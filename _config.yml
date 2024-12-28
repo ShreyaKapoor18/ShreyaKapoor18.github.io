@@ -252,7 +252,7 @@ defaults:
       comments: true
   - scope:
       path: ""
-      type: poster
+      type: posters
     values:
       layout: single
       author_profile: true
