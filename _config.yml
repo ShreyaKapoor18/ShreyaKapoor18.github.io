@@ -253,7 +253,7 @@ defaults:
   #_posters
   - scope:
       path: ""
-      type: posters
+      type: talks
     values:
       layout: single
       author_profile: true
