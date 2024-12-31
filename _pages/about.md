@@ -12,14 +12,12 @@ redirect_from:
 </div>
 </H2>  
 
-Hi, I am a PhD student at the Cognitive Computer Vision Lab, supervised by [Prof. Dr. Bernhard Egger](https://eggerbernhard.ch/) at the University of Erlangen Nuremberg.
-I am interested in understanding
-the differences (and possible similarities) between human and machine vision. My interdisciplinary academic trajectory stems from a desire to
-investigate the correspondence between AI and Neuroscience.
 
-Previously, I worked as a Research Scientist in the research group Learning in Early Childhood at the Max Planck Institute of Human Cognitive and Brain Sciences, Leipzig, Germany. My main responsibility during this time was to design end-to-end pipelines for processing Neuroimaging data.
+I am a PhD student at the Cognitive Computer Vision Lab, supervised by Prof. Dr. Bernhard Egger at the University of Erlangen Nuremberg. My research focuses on exploring the interplay between human and machine vision, aiming to uncover both their differences and potential similarities. With a deep interdisciplinary curiosity, my academic journey is driven by a desire to bridge the fields of AI and Neuroscience.  
 
-I completed a B.Sc. (H) in Physics in 2018 and a M.Sc. Life Science Informatics in 2020. The reason I went from Physics to Life Science Informatics was to explore unconstrained systems such as the brain.  
+Prior to my PhD, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.  
 
-Apart from my academic interests, I enjoy getting to know new people and perspectives. In my free time, I like to read popular science books and dance. 
+I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics (2020). My transition from Physics to Life Science Informatics reflects my passion for exploring unconstrained and complex systems like the human brain.  
+
+Beyond academics, I thrive on connecting with people and gaining fresh perspectives. In my free time, I enjoy reading popular science literature and expressing myself through dance. Currently, I am also exploring AI applications for the industry
 
