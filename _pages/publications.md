@@ -80,7 +80,7 @@
         Imaging genetics provides an opportunity to discern associations between genetic variants and brain imaging phenotypes.
         Historically, the field has focused on adults and adolescents; very few imaging genetics studies have explored brain
         development in infancy and early childhood (from birth to age 6 years). This is an important knowledge gap because
-        developmental changes in the brain during the prenatal and early postnatal period are regulated by dynamic gene
+        developmental changes in the brain during the prenatal and early postnatal periods are regulated by dynamic gene
         expression patterns that likely play an essential role in determining an individual’s risk for later psychiatric illness
         and neurodevelopmental disabilities.
     </p>
