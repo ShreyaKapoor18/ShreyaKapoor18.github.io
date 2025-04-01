@@ -46,7 +46,7 @@ Here are some stats related to my recent activity on GitHub:
 ## 🛠️ Technologies & Tools
 
 
-📌 ## News: ###
+📌### News
 - I will be in Singapore (in April 2025) to attend ICLR 2025 and will be presenting a poster at the workshop Re-Align
 
 
