@@ -56,9 +56,6 @@ Here are some stats related to my recent activity on GitHub:
 ## 🛠️ Technologies & Tools
 
 
-## News
-- I will be in Singapore (in April 2025) to attend ICLR 2025 and will be presenting a poster at the workshop Re-Align
-
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  | ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)  | ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)  | ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=white)  |![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)  | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
