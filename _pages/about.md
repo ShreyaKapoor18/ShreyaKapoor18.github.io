@@ -18,8 +18,10 @@ I am a PhD student at the Cognitive Computer Vision Lab, supervised by Prof. Dr.
 ## 🔔 Current News
 
 - Traveling to Singapore to present a poster at the **Second ICLR Re-Align Workshop 2025**.
+    - Mon, 28 August 11:00 a.m. - 12:00 p.m. Poster Session
 - Presenting again at the **SfN Singapore Chapter** on **29 August 2025**.
 - Hope to catch up with you at **ICLR**!
+
 
 
 Prior to my PhD, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.  
