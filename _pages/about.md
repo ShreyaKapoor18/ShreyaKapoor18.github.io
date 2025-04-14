@@ -12,7 +12,15 @@ redirect_from:
 </div>
 </H2>  
 
+
 I am a PhD student at the Cognitive Computer Vision Lab, supervised by Prof. Dr. Bernhard Egger at the University of Erlangen Nuremberg. My research focuses on exploring the interplay between human and machine vision, aiming to uncover both their differences and potential similarities. With a deep interdisciplinary curiosity, my academic journey is driven by a desire to bridge the fields of Computer Vision and AI.
+
+## 🔔 Current News
+
+- Traveling to Singapore to present a poster at the **Second ICLR Re-Align Workshop 2025**.
+- Presenting again at the **SfN Singapore Chapter** on **29 August 2025**.
+- Hope to catch up with you at **ICLR**!
+
 
 Prior to my PhD, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.  
 
