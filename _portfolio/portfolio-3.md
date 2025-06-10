@@ -8,3 +8,5 @@ title: Conferences and Memberships
 4. Attendee and Presenter Graphics Vision and Machine Learning [graphics](https://vmv2023.cg.cs.tu-bs.de).
 5. Poster Presentation Neuro AI talks in Osnabrück, organized by Tim Keatzmann Lab (2023).
 6. Attendee, at the International Symposium on Vision, Modeling, and Visualization (VMV).
+7. Presented a poster at the ICLR 2025 Re-Align workshop on the paper titled 'Computer Graphics from a Neuroscientist's perspective'
+8. Will be attending the M2L summer school in Split Croatia. 
