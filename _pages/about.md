@@ -47,9 +47,9 @@ Here are some stats related to my recent activity on GitHub:
 
 ## Recent Highlights
 
-a. I had the opportunity to present my work at ICLR 2025, one of the premier conferences in machine learning. During the poster session, I showcased my research titled “Computer Graphics from a Neuroscientist’s Perspective”, engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project.
-b. Additionally, I attended the Society for Neuroscience (SfN) chapter in Singapore, participating in neuroscience outreach, organizing local events, and fostering interdisciplinary collaboration between computational and biological sciences.
-c. Selected to attend the Machine Learning Summer School (MLSS) in Split, Croatia (September 8–12, 2025), a competitive program offering in-depth training in cutting-edge machine learning methods.
+a. I had the opportunity to present my work at ICLR 2025, one of the premier conferences in machine learning. During the poster session, I showcased my research titled “Computer Graphics from a Neuroscientist’s Perspective”, engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project. <br>
+b. Additionally, I attended the Society for Neuroscience (SfN) chapter in Singapore, participating in neuroscience outreach, organizing local events, and fostering interdisciplinary collaboration between computational and biological sciences. <br>
+c. Selected to attend the Machine Learning Summer School (MLSS) in Split, Croatia (September 8–12, 2025), a competitive program offering in-depth training in cutting-edge machine learning methods. <br>
 
 
 ## 🛠️ Technologies & Tools
