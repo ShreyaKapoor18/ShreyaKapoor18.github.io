@@ -68,9 +68,6 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 
 ---
 
-### Machine Learning Summer School (MLSS), Croatia  
-I was selected to attend the **Machine Learning Summer School (MLSS)** in Split, Croatia (**September 8–12, 2025**), a competitive program offering in-depth training in cutting-edge machine learning methods.
-
 
 
 ## 🛠️ Technologies & Tools
