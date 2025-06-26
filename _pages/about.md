@@ -45,17 +45,32 @@ Here are some stats related to my recent activity on GitHub:
 ✨ **Fun Fact:** I love watching action movies and programming in my free time.  
 🎯 **Mission:** Bridging the gap between Computer Vision and Cognitive Science, at the same time learning as much Computer Vision as possible. 
 
-## Recent Highlights
+# Activities and Highlights
 
-a. I will be attending the M2L summer school in Croatia from 8-12 September 2025. Really excited to meet all the scientists over there.  <br>
+### M2L Summer School, Croatia  
+I will be attending the M2L Summer School in Croatia from **September 8–12, 2025**. I am really excited to meet all the scientists and researchers there.
 
-b. I will be attending the Cohere Summer School Online **https://sites.google.com/cohere.com/coherelabs-community/community-programs/summer-school** and hope to remain connected with the community! <br>
+---
 
-c. I had the opportunity to present my work at ICLR 2025, one of the premier conferences in machine learning. During the poster session, I showcased my research titled “Computer Graphics from a Neuroscientist’s Perspective”, engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project. <br>
+### Cohere Summer School Online  
+I will be attending the [Cohere Summer School Online](https://sites.google.com/cohere.com/coherelabs-community/community-programs/summer-school) and hope to remain connected with the community!
 
-d. Additionally, I attended the Society for Neuroscience (SfN) chapter in Singapore, participating in neuroscience outreach, organizing local events, and fostering interdisciplinary collaboration between computational and biological sciences. <br>
+---
 
-c. Selected to attend the Machine Learning Summer School (MLSS) in Split, Croatia (September 8–12, 2025), a competitive program offering in-depth training in cutting-edge machine learning methods. <br>
+### ICLR 2025 Presentation  
+I had the opportunity to present my work at **ICLR 2025**, one of the premier conferences in machine learning. During the poster session, I showcased my research titled  
+**“Computer Graphics from a Neuroscientist’s Perspective”**, engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project.
+
+---
+
+### Society for Neuroscience (SfN) Chapter, Singapore  
+I attended the Society for Neuroscience chapter in Singapore, where I participated in neuroscience outreach, helped organize local events, and fostered interdisciplinary collaboration between computational and biological sciences.
+
+---
+
+### Machine Learning Summer School (MLSS), Croatia  
+I was selected to attend the **Machine Learning Summer School (MLSS)** in Split, Croatia (**September 8–12, 2025**), a competitive program offering in-depth training in cutting-edge machine learning methods.
+
 
 
 ## 🛠️ Technologies & Tools
