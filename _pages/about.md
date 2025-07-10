@@ -47,6 +47,8 @@ Here are some stats related to my recent activity on GitHub:
 
 # Activities and Highlights
 
+## I will be serving as reviewer for UniReps 2025 conference
+
 ### M2L Summer School, Croatia  
 I will be attending the M2L Summer School in Croatia from **September 8–12, 2025**. I am really excited to meet all the scientists and researchers there.
 
