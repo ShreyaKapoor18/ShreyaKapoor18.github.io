@@ -16,7 +16,7 @@ redirect_from:
 I am a researcher at the Cognitive Computer Vision Lab, supervised by Prof. Dr. Bernhard Egger at the University of Erlangen Nuremberg. My research focuses on exploring the interplay between human and machine vision, aiming to uncover both their differences and potential similarities. With a deep interdisciplinary curiosity, my academic journey is driven by a desire to bridge the fields of Computer Vision and AI.
 
 
-Prior to my PhD, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.  
+Prior to this, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.  
 
 I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics (2020). My transition from Physics to Life Science Informatics reflects my passion for exploring unconstrained and complex systems like the human brain.  
 
