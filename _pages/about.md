@@ -29,10 +29,6 @@ Beyond academics, I thrive on connecting with people and gaining fresh perspecti
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
-## 🧑‍🏫 Current Supervisor & Lab
-
-- **Supervisor:** [Prof. Dr. Bernhard Egger](https://eggerbernhard.ch)
-- **Lab Twitter:** [Cognitive Computer Vision Lab](https://x.com/cogcovi?lang=en)
 
 ## Activity
 
