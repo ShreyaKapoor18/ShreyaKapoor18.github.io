@@ -23,7 +23,7 @@ I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics
 
 Beyond academics, I thrive on connecting with people and gaining fresh perspectives. In my free time, I enjoy reading popular science literature and expressing myself through dance. Currently, I am also exploring AI applications for the industry
 
-- 🌱 I’m currently learning advanced Computer Vision and Cognitive Science. 
+- 🌱 I’m currently learning advanced Computer Science, ML and Bioinformatics!
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
