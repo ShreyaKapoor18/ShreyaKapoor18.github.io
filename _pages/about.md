@@ -29,6 +29,14 @@ Beyond academics, I thrive on connecting with people and gaining fresh perspecti
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Email](mailto:kapoorshreya18@gmail.com)
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
+# Podcasts I suggest 
+
+[https://www.youtube.com/watch?v=v1Py_hWcmkU](Consciousness, reasoning and the philosophy of AI)
+[https://www.youtube.com/watch?v=0FoMQqKeY34](Pawan Sinha with Project Prakash)
+
+
+
+
 
 ## Activity
 
