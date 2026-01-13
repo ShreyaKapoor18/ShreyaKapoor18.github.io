@@ -53,22 +53,23 @@ Here are some stats related to my recent activity on GitHub:
 
 # Activities and Highlights
 
-## I attended VMV 2025 as a helper and organizer at FAU Erlangen-Nürnberg
+#### I attended VMV 2025 as a helper and organizer at FAU Erlangen-Nürnberg
 -----
-
-### I will be serving as reviewer for UniReps 2025 conference
+#### I will be serving as reviewer for UniReps 2025 conference
 --------
-### M2L Summer School, Croatia  
-I will be attending the M2L Summer School in Croatia from **September 8–12, 2025**. I am really excited to meet all the scientists and researchers there.
+#### M2L Summer School, Croatia  
 
+I will be attending the M2L Summer School in Croatia from **September 8–12, 2025**. I am really excited to meet all the scientists and researchers there.
 ------
 
 ### Cohere Summer School Online  
+
+
 I will be attending the [Cohere Summer School Online](https://sites.google.com/cohere.com/coherelabs-community/community-programs/summer-school) and hope to remain connected with the community!
 
 --------
 
-### ICLR 2025 Presentation  
+#### ICLR 2025 Presentation  
 I had the opportunity to present my work at **ICLR 2025**, one of the premier conferences in machine learning. During the poster session, I showcased my research titled  
 **“Computer Graphics from a Neuroscientist’s Perspective”**, engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project.
 
