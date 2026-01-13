@@ -11,6 +11,6 @@ tags:
 
 
 <p style="text-align: center;">
-  <a href="/files/Perception_of_MooneyFaces_ExtremeGeneralizationthroughInverseRendering_-Final.pdf" target="_blank">Download PDF</a>
+  <a href="/files/Perception of Mooney Faces_ Extreme Generalization through Inverse Rendering_-Final.pdf" target="_blank">Download PDF</a>
 </p>
 
