@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am actively looking for Data Science and Machine Learning roles in Data Science and Computer Vision. I aim to explore Data Science, ML and AI roles in the industrial sector.
+I am actively looking for Data Science and Machine Learning roles in Data Science and Computer Vision. I aim to explore Data Science, ML and AI roles in the industrial sector or a corresponding research position.
 
 Prior to this, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.
 
