@@ -30,6 +30,7 @@ Beyond academics, I thrive on connecting with people and gaining fresh perspecti
 - [Pawan Sinha with Project Prakash](https://www.youtube.com/watch?v=0FoMQqKeY34)
 - [Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025](https://www.youtube.com/watch?v=2OOGxkqM2oI)
 - [Previous work from Peter Dayan](https://www.youtube.com/watch?v=CttxFk4BYrM)
+- [ Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025 ](https://www.youtube.com/watch?v=2OOGxkqM2oI)
 
 ## Activity
 
