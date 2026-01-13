@@ -33,7 +33,7 @@ Beyond academics, I thrive on connecting with people and gaining fresh perspecti
 
 [https://www.youtube.com/watch?v=v1Py_hWcmkU](Consciousness, reasoning and the philosophy of AI)
 [https://www.youtube.com/watch?v=0FoMQqKeY34](Pawan Sinha with Project Prakash)
-[https://www.youtube.com/watch?v=2OOGxkqM2oI]( Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025 )
+[https://www.youtube.com/watch?v=2OOGxkqM2oI](Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025 )
 {https://www.youtube.com/watch?v=CttxFk4BYrM] (Previous work from Peter Dayan)
 
 
