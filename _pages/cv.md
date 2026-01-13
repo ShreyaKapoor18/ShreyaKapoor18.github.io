@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Researcher in Informatics, University of Erlangen-Nuremberg, 2022-present
+* Researcher in Informatics, University of Erlangen-Nuremberg, 2022-2025
 * M.Sc. Life Science Informatics, University of Bonn, 2018-2020
   - CGPA 1.7/5.0 on German Scale
 * B.Sc. (H) Physics, Miranda House, University of Delhi, 2015-2018
