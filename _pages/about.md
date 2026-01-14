@@ -31,7 +31,13 @@ Beyond academics, I thrive on connecting with people and gaining fresh perspecti
 - [Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025](https://www.youtube.com/watch?v=2OOGxkqM2oI)
 - [Previous work from Peter Dayan](https://www.youtube.com/watch?v=CttxFk4BYrM)
 - [Machine Learning for the Sciences by Klaus Robert Muller](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=klaus+robert+muller#fpstate=ive&vld=cid:4f80b74f,vid:wXix4PYyZ0w,st:0)
+
+## Courses I suggest to audit
+
 - [Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
+- [Computational Visual Perception](https://www.fau.tv/series/computational-visual-perception-w24) (I was also a part of this course as a Teaching Assistant)
+- [Visual Computing for the Life Sciences][https://cg.cs.uni-bonn.de/person/prof-dr-thomas-schultz] (Offered by Prof. Dr. Thomas Schultz and is one of the best courses I ever attended. I must say that Prof. Schultz is one of the best course instructors I have met or learned from. His slides were always clear, structured and very easy to understand. They made hard concepts in Computer Science available to an audience of non-computer scientists at the Master level which was nothing short of great for the students.)
+  
 
 ## Activity
 
@@ -39,6 +45,7 @@ Here are some stats related to my recent activity on GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaKapoor18&show_icons=true&count_private=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKapoor18)
+
 
 ## 🌟 Highlights
 
