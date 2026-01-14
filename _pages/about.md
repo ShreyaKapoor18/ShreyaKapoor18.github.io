@@ -31,7 +31,7 @@ Beyond academics, I thrive on connecting with people and gaining fresh perspecti
 - [Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025](https://www.youtube.com/watch?v=2OOGxkqM2oI)
 - [Previous work from Peter Dayan](https://www.youtube.com/watch?v=CttxFk4BYrM)
 - [Machine Learning for the Sciences by Klaus Robert Muller](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=klaus+robert+muller#fpstate=ive&vld=cid:4f80b74f,vid:wXix4PYyZ0w,st:0)
-
+- [Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
 
 ## Activity
 
@@ -63,6 +63,7 @@ I will be attending the M2L Summer School in Croatia from **September 8–12, 20
 ---
 
 ### Cohere Summer School Online
+
 I will be attending the [Cohere Summer School Online](https://sites.google.com/cohere.com/coherelabs-community/community-programs/summer-school) and hope to remain connected with the community!
 
 ---
