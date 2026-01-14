@@ -18,7 +18,8 @@ I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics
 
 Beyond academics, I thrive on connecting with people and gaining fresh perspectives. In my free time, I enjoy reading popular science literature and expressing myself through dance. Currently, I am also exploring AI applications for the industry.
 
-The first project which got me interested in Artificial Intelligence and Neuroscience [Alphago, where DeepMind's algorithm defeated Lee Sedol](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1892s). 
+The first project which got me interested in Artificial Intelligence and Neuroscience:
+[Alphago, where DeepMind's algorithm defeated Lee Sedol](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1892s). 
 
 
 - 🌱 I'm currently learning advanced Computer Science, ML and Bioinformatics!
@@ -122,13 +123,9 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ## 🤝 Let's Connect
 
 
-## Favourite Movies 
 
-- [Her](https://www.youtube.com/watch?v=D4DRSVTm8Zk)
-- [The matrix, origins](https://www.youtube.com/watch?v=624MgzHsaxg)
 
- ## Other Documentaries and videos I like
-- [ Full interview: "Godfather of artificial intelligence" talks impact and potential of AI ](https://www.youtube.com/watch?v=624MgzHsaxg)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyakapoor18)
