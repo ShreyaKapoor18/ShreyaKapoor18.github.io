@@ -41,6 +41,8 @@ The first project which got me interested in Artificial Intelligence and Neurosc
 - [Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
 - [Computational Visual Perception](https://www.fau.tv/series/computational-visual-perception-w24) (I was also a part of this course as a Teaching Assistant)
 - [Visual Computing for the Life Sciences](https://cg.cs.uni-bonn.de/person/prof-dr-thomas-schultz) (Offered by Prof. Dr. Thomas Schultz and is one of the best courses I ever attended. I must say that Prof. Schultz is one of the best course instructors I have met or learned from. His slides were always clear, structured and very easy to understand. They made hard concepts in Computer Science available to an audience of non-computer scientists at the Master level which was nothing short of great for the students.)
+- [Introduction to Deep Learning](https://www.youtube.com/watch?v=GvezxUdLrEk)
+
   
 
 ## Activity
@@ -106,6 +108,10 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ### 🖥️ Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white) | ![SciPy](https://img.shields.io/badge/-SciPy-green?style=flat-square&logo=sci-py&logoColor=white) | ![Plotly](https://img.shields.io/badge/-Plotly-3A4F75?style=flat-square&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-007A5A?style=flat-square&logo=python&logoColor=white)
 
+
+
+
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -114,6 +120,16 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
+
+
+## Favourite Movies 
+
+- [Her](https://www.youtube.com/watch?v=D4DRSVTm8Zk)
+- [The matrix, origins](https://www.youtube.com/watch?v=624MgzHsaxg)
+
+ ## Other Documentaries and videos I like
+- [ Full interview: "Godfather of artificial intelligence" talks impact and potential of AI ](https://www.youtube.com/watch?v=624MgzHsaxg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyakapoor18)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/skapoor_18)
