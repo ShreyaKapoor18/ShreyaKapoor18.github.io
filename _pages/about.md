@@ -29,6 +29,8 @@ The first project which got me interested in Artificial Intelligence and Neurosc
 - ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
 
 
+
+
 ## Podcasts and Videos I suggest to watch
 
 - [Consciousness, reasoning and the philosophy of AI](https://www.youtube.com/watch?v=v1Py_hWcmkU)
@@ -36,6 +38,8 @@ The first project which got me interested in Artificial Intelligence and Neurosc
 - [Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025](https://www.youtube.com/watch?v=2OOGxkqM2oI)
 - [Previous work from Peter Dayan](https://www.youtube.com/watch?v=CttxFk4BYrM)
 - [Machine Learning for the Sciences by Klaus Robert Muller](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=klaus+robert+muller#fpstate=ive&vld=cid:4f80b74f,vid:wXix4PYyZ0w,st:0)
+- [The Brain that Changes itself](https://www.youtube.com/watch?v=ZxazH01t1Tc)
+
 
 ## Courses I suggest to audit
 
@@ -44,7 +48,7 @@ The first project which got me interested in Artificial Intelligence and Neurosc
 - [Visual Computing for the Life Sciences](https://cg.cs.uni-bonn.de/person/prof-dr-thomas-schultz) (Offered by Prof. Dr. Thomas Schultz and is one of the best courses I ever attended. I must say that Prof. Schultz is one of the best course instructors I have met or learned from. His slides were always clear, structured and very easy to understand. They made hard concepts in Computer Science available to an audience of non-computer scientists at the Master level which was nothing short of great for the students.)
 - [Introduction to Deep Learning](https://www.youtube.com/watch?v=GvezxUdLrEk)
 - [Introduction to Neuroscience](https://www.youtube.com/watch?v=ba-HMvDn_vU)
-- [The Neuroscience of Learning](https://www.youtube.com/watch?v=5_6fezBz9IA)
+- [The Neuroscience of Learning](https://www.youtube.com/watch?v=5_6fezBz9IA)  -- the first documentary which inspired me about the plasticity of the brain and how are abilities are not fixed over life. We can change it over time with Neurofeedback, also use BCIs (brain computer interfaces) for Neurofeedback!
   
 
 ## Activity
