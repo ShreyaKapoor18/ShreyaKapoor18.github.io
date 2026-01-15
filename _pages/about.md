@@ -128,7 +128,10 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [The Brain that Changes itself](https://www.youtube.com/watch?v=ZxazH01t1Tc)
 - [How biocomputing works and Matters for AI](https://www.youtube.com/watch?v=txtDpCLHUkU)
 
-# Movies I suggest 
+## Articles, which can also be listened as a Podcast 
+- [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
+
+## Movies I suggest 
 a. [A beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
 b. [The Imitation Game](https://www.youtube.com/watch?v=kP3m4EZmIFU) <br>
 c. [Theory of Everything](https://www.youtube.com/watch?v=Salz7uGp72c) <br>
