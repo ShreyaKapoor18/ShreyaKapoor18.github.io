@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -127,6 +126,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Previous work from Peter Dayan](https://www.youtube.com/watch?v=CttxFk4BYrM)
 - [Machine Learning for the Sciences by Klaus Robert Muller](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=klaus+robert+muller#fpstate=ive&vld=cid:4f80b74f,vid:wXix4PYyZ0w,st:0)
 - [The Brain that Changes itself](https://www.youtube.com/watch?v=ZxazH01t1Tc)
+- [How biocomputing works and Matters for AI](https://www.youtube.com/watch?v=txtDpCLHUkU)
 
 # Movies I suggest 
 a. [A beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
