@@ -30,25 +30,6 @@ The first project which got me interested in Artificial Intelligence and Neurosc
 
 
 
-
-## Podcasts and Videos I suggest to watch
-
-- [Consciousness, reasoning and the philosophy of AI](https://www.youtube.com/watch?v=v1Py_hWcmkU)
-- [Pawan Sinha with Project Prakash](https://www.youtube.com/watch?v=0FoMQqKeY34)
-- [Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025](https://www.youtube.com/watch?v=2OOGxkqM2oI)
-- [Previous work from Peter Dayan](https://www.youtube.com/watch?v=CttxFk4BYrM)
-- [Machine Learning for the Sciences by Klaus Robert Muller](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=klaus+robert+muller#fpstate=ive&vld=cid:4f80b74f,vid:wXix4PYyZ0w,st:0)
-- [The Brain that Changes itself](https://www.youtube.com/watch?v=ZxazH01t1Tc)
-
-
-## Courses I suggest to audit
-
-- [Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
-- [Computational Visual Perception](https://www.fau.tv/series/computational-visual-perception-w24) - I was also a part of this course as a Teaching Assistant
-- [Visual Computing for the Life Sciences](https://cg.cs.uni-bonn.de/person/prof-dr-thomas-schultz) - Offered by Prof. Dr. Thomas Schultz and is one of the best courses I ever attended. I must say that Prof. Schultz is one of the best course instructors I have met or learned from. His slides were always clear, structured and very easy to understand. They made hard concepts in Computer Science available to an audience of non-computer scientists at the Master level which was nothing short of great for the students.
-- [Introduction to Deep Learning](https://www.youtube.com/watch?v=GvezxUdLrEk)
-- [Introduction to Neuroscience](https://www.youtube.com/watch?v=ba-HMvDn_vU)
-- [The Neuroscience of Learning](https://www.youtube.com/watch?v=5_6fezBz9IA)  - the first documentary which inspired me about the plasticity of the brain and how are abilities are not fixed over life. We can change it over time with Neurofeedback, also use BCIs (brain computer interfaces) for Neurofeedback!
   
 
 ## Activity
@@ -127,6 +108,25 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyakapoor18)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/skapoor_18)
+
+
+## Courses I suggest to audit
+
+- [Introduction to Machine Learning](https://slds-lmu.github.io/i2ml/)
+- [Computational Visual Perception](https://www.fau.tv/series/computational-visual-perception-w24) - I was also a part of this course as a Teaching Assistant
+- [Visual Computing for the Life Sciences](https://cg.cs.uni-bonn.de/person/prof-dr-thomas-schultz) - Offered by Prof. Dr. Thomas Schultz and is one of the best courses I ever attended. I must say that Prof. Schultz is one of the best course instructors I have met or learned from. His slides were always clear, structured and very easy to understand. They made hard concepts in Computer Science available to an audience of non-computer scientists at the Master level which was nothing short of great for the students.
+- [Introduction to Deep Learning](https://www.youtube.com/watch?v=GvezxUdLrEk)
+- [Introduction to Neuroscience](https://www.youtube.com/watch?v=ba-HMvDn_vU)
+- [The Neuroscience of Learning](https://www.youtube.com/watch?v=5_6fezBz9IA)  - the first documentary which inspired me about the plasticity of the brain and how are abilities are not fixed over life. We can change it over time with Neurofeedback, also use BCIs (brain computer interfaces) for Neurofeedback!
+
+## Podcasts and Videos I suggest to watch
+
+- [Consciousness, reasoning and the philosophy of AI](https://www.youtube.com/watch?v=v1Py_hWcmkU)
+- [Pawan Sinha with Project Prakash](https://www.youtube.com/watch?v=0FoMQqKeY34)
+- [Peter Dayan, The Marriage of Natural & Engineered Reinforcement Learning - RLC 2025](https://www.youtube.com/watch?v=2OOGxkqM2oI)
+- [Previous work from Peter Dayan](https://www.youtube.com/watch?v=CttxFk4BYrM)
+- [Machine Learning for the Sciences by Klaus Robert Muller](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=klaus+robert+muller#fpstate=ive&vld=cid:4f80b74f,vid:wXix4PYyZ0w,st:0)
+- [The Brain that Changes itself](https://www.youtube.com/watch?v=ZxazH01t1Tc)
 
 # Movies I suggest 
 a. [A beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
