@@ -43,7 +43,7 @@ The first project which got me interested in Artificial Intelligence and Neurosc
 - [Computational Visual Perception](https://www.fau.tv/series/computational-visual-perception-w24) (I was also a part of this course as a Teaching Assistant)
 - [Visual Computing for the Life Sciences](https://cg.cs.uni-bonn.de/person/prof-dr-thomas-schultz) (Offered by Prof. Dr. Thomas Schultz and is one of the best courses I ever attended. I must say that Prof. Schultz is one of the best course instructors I have met or learned from. His slides were always clear, structured and very easy to understand. They made hard concepts in Computer Science available to an audience of non-computer scientists at the Master level which was nothing short of great for the students.)
 - [Introduction to Deep Learning](https://www.youtube.com/watch?v=GvezxUdLrEk)
-- [Neuroimaging](https://www.youtube.com/watch?v=ba-HMvDn_vU)
+- [Introduction to Neuroscience](https://www.youtube.com/watch?v=ba-HMvDn_vU)
   
 
 ## Activity
