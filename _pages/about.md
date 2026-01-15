@@ -111,9 +111,6 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white) | ![SciPy](https://img.shields.io/badge/-SciPy-green?style=flat-square&logo=sci-py&logoColor=white) | ![Plotly](https://img.shields.io/badge/-Plotly-3A4F75?style=flat-square&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-007A5A?style=flat-square&logo=python&logoColor=white)
 
 
-
-
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -124,11 +121,15 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ## 🤝 Let's Connect
 
 
-
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyakapoor18)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/skapoor_18)
+
+# Movies I suggest 
+a. [A beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
+b. [The Imitation Game](https://www.youtube.com/watch?v=kP3m4EZmIFU) <br>
+c. [Theory of Everything](https://www.youtube.com/watch?v=Salz7uGp72c) <br>
+d. [Inception](https://www.youtube.com/watch?v=xFtci3ejfbk) <br>
+e. [Shutter Island](https://www.youtube.com/watch?v=v8yrZSkKxTA) <br>
+f. [Sully](https://www.youtube.com/watch?v=mjKEXxO2KNE) <br>
 
 Thank you for visiting my profile!
