@@ -129,10 +129,10 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [How biocomputing works and Matters for AI](https://www.youtube.com/watch?v=txtDpCLHUkU)
 - [The future of NeuroAI](https://www.youtube.com/watch?v=JUK9PUTKPWU)
 - [Quantum Computing](https://www.youtube.com/watch?v=1_gJp2uAjO0&t=911s)
+- [WayMo](https://www.youtube.com/watch?v=jnUUo7xso_0) - autonomous vehicles are possible :) 
 
 ## Articles, which can also be listened as a Podcast 
 - [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
-- [WayMo](https://www.youtube.com/watch?v=2t2pMtJGv6k)
 
 ## Movies I suggest 
 a. [A beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
