@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 
 I am actively looking for Data Science and Machine Learning roles in Data Science and Computer Vision. I aim to explore Data Science, ML and AI roles in the industrial sector or a corresponding research position.
 
