@@ -127,6 +127,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Machine Learning for the Sciences by Klaus Robert Muller](https://www.google.com/search?client=firefox-b-d&channel=entpr&q=klaus+robert+muller#fpstate=ive&vld=cid:4f80b74f,vid:wXix4PYyZ0w,st:0)
 - [The Brain that Changes itself](https://www.youtube.com/watch?v=ZxazH01t1Tc)
 - [How biocomputing works and Matters for AI](https://www.youtube.com/watch?v=txtDpCLHUkU)
+- [The future of NeuroAI](https://www.youtube.com/watch?v=JUK9PUTKPWU)
 
 ## Articles, which can also be listened as a Podcast 
 - [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
