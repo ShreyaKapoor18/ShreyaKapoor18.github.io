@@ -128,6 +128,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [The Brain that Changes itself](https://www.youtube.com/watch?v=ZxazH01t1Tc)
 - [How biocomputing works and Matters for AI](https://www.youtube.com/watch?v=txtDpCLHUkU)
 - [The future of NeuroAI](https://www.youtube.com/watch?v=JUK9PUTKPWU)
+- [Quantum Computing](https://www.youtube.com/watch?v=1_gJp2uAjO0&t=911s)
 
 ## Articles, which can also be listened as a Podcast 
 - [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
