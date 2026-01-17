@@ -41,7 +41,7 @@ Here are some stats related to my recent activity on GitHub:
 ## 🌟 Highlights
 
 ✨ **Fun Fact:** I love watching action movies and programming in my free time.  
-🎯 **Mission:** Bridging the gap between Computer Vision and Cognitive Science, at the same time learning as much Computer Vision as possible.
+
 
 ## Activities and Highlights
 
