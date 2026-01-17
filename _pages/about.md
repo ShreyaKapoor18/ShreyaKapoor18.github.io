@@ -133,6 +133,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [WayMo](https://www.youtube.com/watch?v=jnUUo7xso_0) - autonomous vehicles are possible :)
 - [Gary Marcus on AGI](https://www.youtube.com/watch?v=O0H1-omYMGA)
 - [Ray Kurzweil, the wonderful and terrifying implications of computers that can learn ](https://www.youtube.com/watch?v=t4kyRyKyOpo)
+- [Education in transition](https://www.youtube.com/watch?v=g_gRHW4SJtI) -- we are not applying our brains to it?
 
 
 ## Articles, which can also be listened as a Podcast 
