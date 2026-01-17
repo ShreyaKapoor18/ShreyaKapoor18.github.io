@@ -132,6 +132,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Quantum Computing](https://www.youtube.com/watch?v=1_gJp2uAjO0&t=911s)
 - [WayMo](https://www.youtube.com/watch?v=jnUUo7xso_0) - autonomous vehicles are possible :)
 - [Gary Marcus on AGI](https://www.youtube.com/watch?v=O0H1-omYMGA)
+- [Ray Kurzweil](https://www.youtube.com/watch?v=t4kyRyKyOpo)
 
 
 ## Articles, which can also be listened as a Podcast 
