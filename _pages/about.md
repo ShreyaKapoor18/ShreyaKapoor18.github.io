@@ -131,7 +131,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [The future of NeuroAI](https://www.youtube.com/watch?v=JUK9PUTKPWU)
 - [Quantum Computing](https://www.youtube.com/watch?v=1_gJp2uAjO0&t=911s)
 - [WayMo](https://www.youtube.com/watch?v=jnUUo7xso_0) - autonomous vehicles are possible :)
-- [Gary Marcus](https://www.youtube.com/watch?v=jnUUo7xso_0)
+- [Gary Marcus on AGI](https://www.youtube.com/watch?v=O0H1-omYMGA)
 
 
 ## Articles, which can also be listened as a Podcast 
