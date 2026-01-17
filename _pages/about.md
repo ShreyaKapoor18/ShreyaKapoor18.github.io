@@ -147,4 +147,10 @@ d. [Inception](https://www.youtube.com/watch?v=xFtci3ejfbk) <br>
 e. [Shutter Island](https://www.youtube.com/watch?v=v8yrZSkKxTA) <br>
 f. [Sully](https://www.youtube.com/watch?v=mjKEXxO2KNE) <br>
 
+
+## Books I suggest 
+
+a. The Singularity is near by Ray Kurzweil
+b. Investigation into the laws of thought by George boole on Boolean Algebra
+
 Thank you for visiting my profile!
