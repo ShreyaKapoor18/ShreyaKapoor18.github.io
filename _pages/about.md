@@ -14,7 +14,7 @@ Prior to this, I worked as a Research Scientist in the Learning in Early Childho
 
 I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics (2020). My transition from Physics to Life Science Informatics reflects my passion for exploring unconstrained and complex systems like the human brain.
 
-Beyond academics, I thrive on connecting with people and gaining fresh perspectives. In my free time, I enjoy reading popular science literature and expressing myself through dance. Currently, I am also exploring AI applications for the industry.
+Beyond academics, I thrive on connecting with people and gaining fresh perspectives. In my free time, I enjoy reading popular science literature and expressing myself through dance. Currently, I am also exploring AI applications for the industry. 
 
 The first project which got me interested in Artificial Intelligence and Neuroscience:
 [Alphago, where DeepMind's algorithm defeated Lee Sedol](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1892s). 
@@ -134,6 +134,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Gary Marcus on AGI](https://www.youtube.com/watch?v=O0H1-omYMGA)
 - [Ray Kurzweil, the wonderful and terrifying implications of computers that can learn ](https://www.youtube.com/watch?v=t4kyRyKyOpo)
 - [Education in transition](https://www.youtube.com/watch?v=g_gRHW4SJtI) -- we are not applying our brains to it?
+- [Inventing Liquid Neural Networks](https://www.youtube.com/watch?v=iRXZ5vQ6mGE) 
 
 
 ## Articles, which can also be listened as a Podcast 
@@ -146,6 +147,7 @@ c. [Theory of Everything](https://www.youtube.com/watch?v=Salz7uGp72c) <br>
 d. [Inception](https://www.youtube.com/watch?v=xFtci3ejfbk) <br>
 e. [Shutter Island](https://www.youtube.com/watch?v=v8yrZSkKxTA) <br>
 f. [Sully](https://www.youtube.com/watch?v=mjKEXxO2KNE) <br>
+
 
 
 ## Books I suggest 
