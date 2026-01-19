@@ -134,7 +134,8 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Gary Marcus on AGI](https://www.youtube.com/watch?v=O0H1-omYMGA)
 - [Ray Kurzweil, the wonderful and terrifying implications of computers that can learn ](https://www.youtube.com/watch?v=t4kyRyKyOpo)
 - [Education in transition](https://www.youtube.com/watch?v=g_gRHW4SJtI) -- we are not applying our brains to it?
-- [Inventing Liquid Neural Networks](https://www.youtube.com/watch?v=iRXZ5vQ6mGE) 
+- [Inventing Liquid Neural Networks](https://www.youtube.com/watch?v=iRXZ5vQ6mGE)
+- [Prof. Bishop's new Computer Vision Notebook](https://www.youtube.com/watch?v=kuvFoXzTK3E)
 
 
 ## Articles, which can also be listened as a Podcast 
