@@ -152,7 +152,7 @@ f. [Sully](https://www.youtube.com/watch?v=mjKEXxO2KNE) <br>
 
 ## Books I suggest 
 
-a. The Singularity is near by Ray Kurzweil
-b. Investigation into the laws of thought by George boole on Boolean Algebra
+a. The Singularity is near by Ray Kurzweil <br>
+b. Investigation into the laws of thought by George boole on Boolean Algebra <br>
 
 Thank you for visiting my profile!
