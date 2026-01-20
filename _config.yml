@@ -6,22 +6,22 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Shreya Kapoor"
-title_separator          : "-"
+locale                  : "en-US"
+title                   : "Shreya Kapoor"
+title_separator         : "-"
 name                     : &name "Shreya Kapoor"
-description              : &description "M.Sc. Life Science Informatics, currently PhD Student at the Cognitive Computer Vision Lab, Friedrich Alexander Universität Erlangen-Nüremberg"
+description              : &description "M.Sc. Life Science Informatics, previously research Student at the Cognitive Computer Vision Lab, Friedrich Alexander Universität Erlangen-Nüremberg"
 url                      : https://ShreyaKapoor18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog."
 repository               : "ShreyaKapoor18/ShreyaKapoor18.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x3.00.png"
+breadcrumbs             : false # true, false (default)
 words_per_minute         : 160
-future                   : false
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+future                  : false
+read_more               : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link            : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider              : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : 
   discourse:
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shreya Kapoor"
-  avatar           : "profile.png"
-  bio              : " PhD @FAU Erlangen, Germany | Former Data Analyst at Max Planck Institute for Human Cognitive and Brain Sciences | BSc.(H) Physics and M.Sc. Life Science Informatics."
-  location         : "Erlangen, Germany"
+  name            : "Shreya Kapoor"
+  avatar          : "profile.png"
+  bio              : " Researcher @FAU Erlangen, Germany | Former Data Analyst at Max Planck Institute for Human Cognitive and Brain Sciences | BSc.(H) Physics and M.Sc. Life Science Informatics."
+  location         : "Erlangen, Germany."
   employer         : "Friedrich-Alexander-Universität"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=4Y3fnjgAAAAJ&hl=en"
-  email            : "shreya.kapoor@fau.de"
+  googlescholar   : "https://scholar.google.com/citations?user=4Y3fnjgAAAAJ&hl=en"
+  email           : "shreya.kapoor@fau.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,26 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShreyaKapoor18"
+  github          : "ShreyaKapoor18"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shreyakapoor18/"
-  orcid            : "https://orcid.org/0000-0003-2619-8257" 
+  linkedin        : "shreyakapoor18/"
+  orcid           : "https://orcid.org/0000-0003-2619-8257" 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow   : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Skapoor_18"
+  Twitter        : "Skapoor_18"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  medium           : "@shreyakapoor18"
+  medium          : "@shreyakapoor18"
 
 
 # Reading Files
@@ -296,7 +296,7 @@ whitelist:
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
+#  - Archive page should exist at the path when using the Liquid method, or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
