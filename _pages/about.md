@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 
-I am actively looking for Data Science and Machine Learning roles in Data Science and Computer Vision. I aim to explore Data Science, ML and AI roles in the industrial sector or a corresponding research position.
+I am actively looking for Data Science and Machine Learning roles in Data Science and Computer Vision. I aim to explore Data Science, ML, and AI roles in the industrial sector or a corresponding research position.
 
-Prior to this, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.
+Previously, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.
 
-I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics (2020). My transition from Physics to Life Science Informatics reflects my passion for exploring unconstrained and complex systems like the human brain.
+I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics (2020). My transition from Physics to Life Science Informatics reflects my passion for exploring complex and unconstrained systems, such as the human brain.
 
 Beyond academics, I thrive on connecting with people and gaining fresh perspectives. In my free time, I enjoy reading popular science literature and expressing myself through dance. Currently, I am also exploring AI applications for the industry. 
 
-The first project which got me interested in Artificial Intelligence and Neuroscience:
+The first project that got me interested in Artificial Intelligence and Neuroscience:
 [Alphago, where DeepMind's algorithm defeated Lee Sedol](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1892s). 
 
 
@@ -135,14 +135,14 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Ray Kurzweil, the wonderful and terrifying implications of computers that can learn ](https://www.youtube.com/watch?v=t4kyRyKyOpo)
 - [Education in transition](https://www.youtube.com/watch?v=g_gRHW4SJtI) -- we are not applying our brains to it?
 - [Inventing Liquid Neural Networks](https://www.youtube.com/watch?v=iRXZ5vQ6mGE)
-- [Prof. Bishop's new Computer Vision Notebook](https://www.youtube.com/watch?v=kuvFoXzTK3E)
+- [Prof. Bishop's new Computer Vision Notebook (https://www.youtube.com/watch?v=kuvFoXzTK3E)
 
 
-## Articles, which can also be listened as a Podcast 
+## Articles, which can also be listened to as a Podcast 
 - [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
 
 ## Movies I suggest 
-a. [A beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
+a. [A Beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
 b. [The Imitation Game](https://www.youtube.com/watch?v=kP3m4EZmIFU) <br>
 c. [Theory of Everything](https://www.youtube.com/watch?v=Salz7uGp72c) <br>
 d. [Inception](https://www.youtube.com/watch?v=xFtci3ejfbk) <br>
