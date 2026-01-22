@@ -136,6 +136,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Education in transition](https://www.youtube.com/watch?v=g_gRHW4SJtI) -- we are not applying our brains to it?
 - [Inventing Liquid Neural Networks](https://www.youtube.com/watch?v=iRXZ5vQ6mGE)
 - [Prof. Bishop's new Computer Vision Notebook](https://www.youtube.com/watch?v=kuvFoXzTK3E)
+- [The day after AGI](https://www.youtube.com/watch?v=mmKAnHz36v0&t=315s)
 
 
 ## Articles, which can also be listened to as a Podcast 
