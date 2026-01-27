@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name            : "Shreya Kapoor"
-  avatar          : "profile.png"
-  bio              : " Researcher @FAU Erlangen, Germany | Former Data Analyst at Max Planck Institute for Human Cognitive and Brain Sciences | BSc.(H) Physics and M.Sc. Life Science Informatics."
-  location         : "Erlangen, Germany."
+  name           : "Shreya Kapoor"
+  avatar         : "profile.png"
+  bio             : " Researcher @FAU Erlangen, Germany | Former Data Analyst at Max Planck Institute for Human Cognitive and Brain Sciences | BSc.(H) Physics and M.Sc. Life Science Informatics."
+  location        : "Erlangen, Germany."
   employer         : "Friedrich-Alexander-Universität"
   pubmed           :
-  googlescholar   : "https://scholar.google.com/citations?user=4Y3fnjgAAAAJ&hl=en"
-  email           : "shreya.kapoor@fau.de"
+  googlescholar  : "https://scholar.google.com/citations?user=4Y3fnjgAAAAJ&hl=en"
+  email          : "shreya.kapoor@fau.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
