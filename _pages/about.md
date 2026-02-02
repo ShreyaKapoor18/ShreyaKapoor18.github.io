@@ -110,6 +110,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 
 ## Some talks which I suggest to watch 
 - [Encoding and Decoding speech from the brain](https://www.youtube.com/watch?v=aM6N7aTUJxI)
+- ['Godfather of AI' predicts ALL jobs will be in 'wiped out' by AI](https://www.youtube.com/watch?v=eddSGoSYnSU)
 
 
 
