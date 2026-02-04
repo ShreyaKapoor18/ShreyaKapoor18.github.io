@@ -123,7 +123,8 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Introduction to Neuroscience](https://www.youtube.com/watch?v=ba-HMvDn_vU)
 
 
-## Podcasts and Videos I suggest to watch
+
+## Podcasts and Videos I suggest watching
 
 - [Consciousness, reasoning and the philosophy of AI](https://www.youtube.com/watch?v=v1Py_hWcmkU)
 - [Pawan Sinha with Project Prakash](https://www.youtube.com/watch?v=0FoMQqKeY34)
@@ -142,11 +143,13 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Prof. Bishop's new Computer Vision Notebook](https://www.youtube.com/watch?v=kuvFoXzTK3E)
 - [The day after AGI](https://www.youtube.com/watch?v=mmKAnHz36v0&t=315s)
 -  [The Brain that Changes Itself](https://www.youtube.com/watch?v=sK51nv8mo-o&t=72s)  - the first documentary which inspired me about the plasticity of the brain and how are abilities are not fixed over life. We can change it over time with Neurofeedback, also use BCIs (brain computer interfaces) for Neurofeedback!
+  
 
 
 
 ## Articles, which can also be listened to as a Podcast 
 - [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
+- [NeuroAI and Beyond][https://arxiv.org/abs/2601.19955]
 
 ## Movies I suggest 
 a. [A Beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
@@ -155,6 +158,7 @@ c. [Theory of Everything](https://www.youtube.com/watch?v=Salz7uGp72c) <br>
 d. [Inception](https://www.youtube.com/watch?v=xFtci3ejfbk) <br>
 e. [Shutter Island](https://www.youtube.com/watch?v=v8yrZSkKxTA) <br>
 f. [Sully](https://www.youtube.com/watch?v=mjKEXxO2KNE) <br>
+
 
 
 
