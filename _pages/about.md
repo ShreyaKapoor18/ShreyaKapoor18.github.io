@@ -149,7 +149,6 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 
 ## Articles, which can also be listened to as a Podcast 
 - [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
-- [NeuroAI and Beyond][https://arxiv.org/abs/2601.19955]
 
 ## Movies I suggest 
 a. [A Beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
