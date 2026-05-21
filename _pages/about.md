@@ -162,6 +162,19 @@ f. [Sully](https://www.youtube.com/watch?v=mjKEXxO2KNE) <br>
 
 
 
+## Recommended Reading
+
+### A spelling device for the paralysed (Nature, 1999)
+
+One of the foundational papers in Brain–Computer Interfaces (BCIs).  
+This work showed that completely paralyzed patients could communicate using EEG-based brain signals.
+
+🔗 [Read the paper](https://www.nature.com/articles/18581)
+
+> A landmark study demonstrating early non-invasive brain–computer communication for locked-in patients.
+
+
+
 ## Books I suggest 
 
 a. The Singularity is near by Ray Kurzweil <br>
