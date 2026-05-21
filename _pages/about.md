@@ -121,6 +121,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Visual Computing for the Life Sciences](https://cg.cs.uni-bonn.de/person/prof-dr-thomas-schultz) - Offered by Prof. Dr. Thomas Schultz and is one of the best courses I ever attended. I must say that Prof. Schultz is one of the best course instructors I have met or learned from. His slides were always clear, structured and very easy to understand. They made hard concepts in Computer Science available to an audience of non-computer scientists at the Master level which was nothing short of great for the students.
 - [Introduction to Deep Learning](https://www.youtube.com/watch?v=GvezxUdLrEk)
 - [Introduction to Neuroscience](https://www.youtube.com/watch?v=ba-HMvDn_vU)
+- [Introduction to Brain Computer Interfaces](https://www.consilium.europa.eu/media/fh4fw3fn/art_braincomputerinterfaces_2024_web.pdf)
 
 
 
