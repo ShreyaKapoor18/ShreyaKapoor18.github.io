@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assisstantship"
+title: "Teaching Assistantship"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2020-summer-teaching-1

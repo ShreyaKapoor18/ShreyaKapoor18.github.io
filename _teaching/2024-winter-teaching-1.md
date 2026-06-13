@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2024-winter-teaching-1
 venue: "Friedrich-Alexander-Universität Erlangen-Nüremberg"
-date: 04 Dec 2024
+date: 2024-12-04
 location: "Erlangen, Germany"
 ---
 Winter Semester 2024 <br>
