@@ -6,5 +6,5 @@ permalink: /publication/2025-05-14-llm-persuasion
 excerpt: 'This study compares the persuasiveness of large language models (Claude 3.5 Sonnet and DeepSeek v3) against incentivized human persuaders in real-time conversations. Results show that LLM persuasive superiority is context-dependent — varying with the truthfulness of persuasion attempts, the model used, and diminishing with repeated interactions.'
 date: 2025-05-14
 venue: 'arXiv preprint arXiv:2505.09662'
-doi: 'https://arxiv.org/abs/2505.09662'
+paperurl: 'https://arxiv.org/abs/2505.09662'
 ---
