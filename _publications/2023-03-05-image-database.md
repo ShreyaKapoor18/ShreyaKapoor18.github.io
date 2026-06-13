@@ -17,3 +17,9 @@ paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-08411-9_19'
 This chapter describes the process of building an Image Database with searchable metadata. Searching for an image greatly benefits from having useful metadata to accompany it. The proposed solution allows the user to save the picture together with its online location (URL) and suitable metadata. The application then saves both the picture and its metadata in a SQLite database. This database can be queried and is accessible via a RESTful API service.
 
 [Read the chapter](https://link.springer.com/chapter/10.1007/978-3-031-08411-9_19) | [GitHub repository](https://github.com/ShreyaKapoor18/biomed_images_metadb)
+
+## Demo
+
+The animation below walks through the three-step pipeline: importing image-metadata pairs via the CLI, storing them in SQLite, and querying the results through the REST API.
+
+![Biomedical Image Database demo](/images/biomed_metadb_demo.gif)
