@@ -7,27 +7,36 @@ tags:
 
 ---
 
-Among the many conferences and schools I have attended as part of my research career, the **M2L Summer School 2025** (8–12 September 2025, Split, Croatia) was particularly special. The school brought together 300 participants selected from over 1,700 applicants, which speaks to how competitive and sought-after the field has become.
+So, I have travelled to multiple conferences as a part of my research career, but the M2L summer school 2025 (8-12 September 2025) was a bit special for me. I enjoyed every bit of the Summer School. 
+It was super exciting to visit the Mediterranean countries and also see the enthusiasm of undergraduates. Before the summer school started, we got an invitation to the slack and 
+also the whole schedule of the summer school which was nothing short of great! 
 
-The program covered topics from transformers to diffusion models. Full details are available at the [M2L program page](https://www.m2lschool.org/program).
+Here is the program of the summer school: [M2L program](https://www.m2lschool.org/program).
+300 applicants were selected from a group of 1700 applicants, which was great to see! The field of Machine Learning has become increasingly competitive! Almost everyone wants to study
+the hottest topic of the century and work with the best researchers in the field. Which is true, one has to be selected from a big pool of applicants in order to make it there. 
 
-## Arrival and Setting
+On the first day, we flew to Split, Croatia and checked into the dorms provided by the university. The weather was Mediterranean (and sweaty, hence my hair was very itchy).
+I was not that tired from my flight hence we went to the Gala dinner organized by the team of the summer school at Gal Split with an amazing buffet!
 
-The school was hosted at the University of Split, Croatia. Participants arrived to a warm Mediterranean climate and were welcomed with a Gala dinner on the first evening, which was a great way to meet fellow researchers and kick off the week.
+After that the next day, I was in my dreamland. All the math and physics formulas related to Machine learning started! You can see what all was shared during the summer school
+according to the program mentioned above (from transformers to diffusion models). The program was nothing short of great for me! It was so nice to share my research in an international environment! I was specially happy with the great food that came along during the summer school (yes the catering was great). 
 
-## Academic Programme
+What I liked most about the program was that there were attendees who got in only because they were interested, it was purely merit based and not based on a Pay and Go model. Hence your peers
+were the ones who held a genuine interest in Machine Learning. Particularly open idea for me was the research taking place in industry, particularly at DeepMind. 
+I remember, when I was a kid, I used to see a Hindi kids show called as `Karishma Ka Karishma` which was probably the first idea of an Artificial Intelligence in the world of Hindi Cinema 
+and the talk about the robots performing a 'Slam Dunk' and trying to correct itself after performing a wrong one was super interesting, it was almost like the future we used to see in the 
+television series is in front of us. All of this has been put together by a magical phenomenon called `Programming` but without explicit rules. One must have studied about the axiom 
+that the MLP is a universal function approximator, which it indeed is (the axiom states that if we have an MLP with a single layer but still an infinite number of neurons, it can learn any 
+type of function or mapping). So far it is true, every day there is a new advance in machine learning, which I thought would be guided by the principles of the inner workings of the brain, but 
+it does not seem to be so! Much of modern AI is being guided by advances in compute and not by the inner workings of the brain! Modern Artificial Intelligence does not need to know how the brain is
+working at every level in order to do the same tasks as the brain. 
 
-The lectures covered a broad range of current topics in machine learning, from mathematical foundations to state-of-the-art architectures. What made the programme especially valuable was the chance to present my own research in an international setting and receive feedback from peers across different institutions and backgrounds.
+All this takes me back to the movie the Imitation Game, where Alan Turing during his questioning in jail is asked 'Can machines think?' and the whole idea put forward that what is thinking?
+Two humans think differently, can we say that one thinks and the other does not. Hence, machines might think differently as compared to humans, but it does not mean that they don't think at 
+all? I pondered over all these questions as an enthusiastic scientist at the summer school!
 
-A question that kept coming up throughout the week was how much of modern AI actually reflects our understanding of the brain. Much of the recent progress seems driven more by compute and scale than by neuroscientific insights, which raises genuinely interesting open questions for anyone working at the intersection of neuroscience and machine learning.
 
-## Selection and Community
-
-The merit-based selection process meant that attendees were there because of genuine interest in the field, not just access or institutional backing. This made for a stimulating environment with rich discussions both inside and outside the lecture halls.
-
-## Photo Gallery
-
-Here is a selection of photos from the school:
+Here is a showcase of all the pictures from the summer school!
 
 <table>
 <tr>
