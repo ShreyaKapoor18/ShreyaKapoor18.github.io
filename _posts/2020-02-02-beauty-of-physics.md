@@ -1,7 +1,7 @@
 ---
 title: 'The beauty of Physics'
 date: 2020-02-02
-permalink: /posts/2020-02-02-blog-post-2/
+permalink: /posts/2020-02-02-beauty-of-physics/
 tags:
   - Physics
 ---

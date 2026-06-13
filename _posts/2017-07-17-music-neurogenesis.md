@@ -1,7 +1,7 @@
 ---
 title: 'Music and Neurogenesis'
 date: 2017-07-17
-permalink: /posts/2017-07-17-blog-post-4/
+permalink: /posts/2017-07-17-music-neurogenesis/
 tags:
   - Neuroscience
 ---

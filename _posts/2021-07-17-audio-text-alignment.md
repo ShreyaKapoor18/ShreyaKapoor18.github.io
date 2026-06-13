@@ -1,7 +1,7 @@
 ---
 title: 'Audio and Text Alignment'
 date: 2021-07-17
-permalink: /posts/2021-07-17-blog-post-5/
+permalink: /posts/2021-07-17-audio-text-alignment/
 tags:
   - Neuroscience
 ---

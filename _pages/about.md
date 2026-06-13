@@ -68,7 +68,7 @@ I attended the [Cohere Summer School Online](https://sites.google.com/cohere.com
 ### ICLR 2025 Presentation
 I had the opportunity to present my work at **ICLR 2025**, one of the premier conferences in machine learning, held in **Singapore**. During the poster session, I showcased my research titled **"Computer Graphics from a Neuroscientist's Perspective"** ([PDF](https://openreview.net/pdf/eb668c23a06ea3251696f545172c0001b66245d2.pdf)), engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project.
 
-[Read my full ICLR 2025 recap →](/posts/2025-05-05-blog-post)
+[Read my full ICLR 2025 recap →](/posts/2025-05-05-iclr-2025/)
 
 ---
 
@@ -99,7 +99,7 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 
 <!-- BLOG-POST-LIST:START -->
 - [Visit to M2L Summer School](/posts/2025-10-20-m2l-summer-school/)
-- [My experience at ICLR 2025](/posts/2025-05-05-blog-post)
+- [My experience at ICLR 2025](/posts/2025-05-05-iclr-2025/)
 - [Remote Development using Pycharm](https://medium.com/@shreyakapoor18/remote-development-using-pycharm-f89f08f13928)
 - [A Necessity, A Comfort or Both](https://medium.com/@shreyakapoor18/a-necessity-a-comfort-or-both-890aa9015b9d)
 <!-- BLOG-POST-LIST:END -->
