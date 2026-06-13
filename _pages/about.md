@@ -51,25 +51,35 @@ I attended VMV 2025 as a helper and organizer at FAU Erlangen-Nürnberg.
 ---
 
 ### UniReps 2025 Reviewer
-I will be serving as reviewer for UniReps 2025 conference.
+I served as a reviewer for the UniReps 2025 conference.
 
 ---
 
 ### M2L Summer School, Croatia
-I will be attending the M2L Summer School in Croatia from **September 8–12, 2025**. I am really excited to meet all the scientists and researchers there.
+I attended the M2L Summer School in Croatia from **September 8–12, 2025**. It was a fantastic experience meeting scientists and researchers from across the field. 300 participants were selected from 1700 applicants, covering topics from transformers to diffusion models.
 
-Here are the video recordings from the M2L summer school [M2L summer school](https://www.youtube.com/watch?v=KiytVt6dbWE)
+- [Full school program & tutorials](https://www.m2lschool.org/program)
+- [Video recordings from the M2L summer school](https://www.youtube.com/watch?v=KiytVt6dbWE)
+
+[Read my full M2L recap →](/posts/2025-10-20-m2l-summer-school/)
 
 ---
 
 ### Cohere Summer School Online
 
-I will be attending the [Cohere Summer School Online](https://sites.google.com/cohere.com/coherelabs-community/community-programs/summer-school) and hope to remain connected with the community!
+I attended the [Cohere Summer School Online](https://sites.google.com/cohere.com/coherelabs-community/community-programs/summer-school) and remain connected with the community!
 
 ---
 
 ### ICLR 2025 Presentation
-I had the opportunity to present my work at **ICLR 2025**, one of the premier conferences in machine learning. During the poster session, I showcased my research titled **"Computer Graphics from a Neuroscientist's Perspective"** ([PDF](https://openreview.net/pdf/eb668c23a06ea3251696f545172c0001b66245d2.pdf)), engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project.
+I had the opportunity to present my work at **ICLR 2025**, one of the premier conferences in machine learning, held in **Singapore**. During the poster session, I showcased my research titled **"Computer Graphics from a Neuroscientist's Perspective"** ([PDF](https://openreview.net/pdf/eb668c23a06ea3251696f545172c0001b66245d2.pdf)), engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project.
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
+  <img src="https://raw.githubusercontent.com/ShreyaKapoor18/ShreyaKapoor18.github.io/master/_posts/ICLR.png" alt="ICLR 2025" width="300"/>
+  <img src="https://raw.githubusercontent.com/ShreyaKapoor18/ShreyaKapoor18.github.io/master/_posts/swimming_pool.JPG" alt="Village Hotel Changi infinity pool" width="300"/>
+</div>
+
+[Read my full ICLR 2025 recap →](/posts/2025-05-05-blog-post)
 
 ---
 
@@ -99,6 +109,8 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visit to M2L Summer School](/posts/2025-10-20-m2l-summer-school/)
+- [My experience at ICLR 2025](/posts/2025-05-05-blog-post)
 - [Remote Development using Pycharm](https://medium.com/@shreyakapoor18/remote-development-using-pycharm-f89f08f13928)
 - [A Necessity, A Comfort or Both](https://medium.com/@shreyakapoor18/a-necessity-a-comfort-or-both-890aa9015b9d)
 <!-- BLOG-POST-LIST:END -->
