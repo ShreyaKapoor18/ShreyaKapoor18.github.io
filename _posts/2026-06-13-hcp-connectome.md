@@ -1,7 +1,7 @@
 ---
 title: 'Generating Structural Connectomes from the Human Connectome Project'
-date: 2026-06-14
-permalink: /posts/2026-06-14-hcp-connectome/
+date: 2026-06-13
+permalink: /posts/2026-06-13-hcp-connectome/
 tags:
   - Neuroimaging
   - Diffusion MRI

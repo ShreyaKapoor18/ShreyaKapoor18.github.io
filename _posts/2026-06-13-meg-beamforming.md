@@ -1,7 +1,7 @@
 ---
 title: 'MEG Beamforming: Forward and Inverse Problems'
-date: 2026-06-14
-permalink: /posts/2026-06-14-meg-beamforming/
+date: 2026-06-13
+permalink: /posts/2026-06-13-meg-beamforming/
 tags:
   - Neuroimaging
   - MEG
