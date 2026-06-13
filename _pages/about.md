@@ -26,8 +26,10 @@ My research interests include representational alignment between humans and mach
 
 Here are some stats related to my recent activity on GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaKapoor18&show_icons=true&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKapoor18)
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyaKapoor18&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKapoor18" alt="Top Languages" />
+</div>
 
 
 ## 🌟 Highlights
