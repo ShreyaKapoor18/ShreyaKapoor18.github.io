@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,50 +9,81 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Researcher in Informatics, University of Erlangen-Nuremberg, 2022-2025
-* M.Sc. Life Science Informatics, University of Bonn, 2018-2020
-  - CGPA 1.7/5.0 on German Scale
-* B.Sc. (H) Physics, Miranda House, University of Delhi, 2015-2018
-  - CGPA 8.35/10
-* All India Senior School Certificate, Science Stream, Delhi Public School R.K.Puram
-  - Percentage 95.5%
+<p>
+  <a href="/files/ShreyaKapoor_CV.pdf" target="_blank" class="btn btn--primary">Download CV (PDF)</a>
+</p>
 
+---
 
-Work experience
-======
+## Education
 
-| Duration             |  Role                              |   Location      |  Research Group  | Responsibilities |
-| ------------         | ------------                       | -------------  | ------------------- | ----------------------------|
-| Oct 2022 - Sept. 2025   | Researcher                      | University of Erlangen-Nuremberg | Cognitive Computer Vision Lab, Chair of Visual Computing | Research at the interface of Computer Vision and Neuroscience |
-| March 2021 - Sep 2022 |  Data Analyst & Research Scientist | Max Planck Institute of Human Cognitive and Brain Sciences | Research Group Learning in Early Childhood | - Designing pipelines for NIRS-EEG data <br> - Analyzing and developing pipelines for fMRI Data <br> - Running quality control on MRI scans <br> - Optimizing NLP models to infer from multimodal neuroimaging data <br> - Optimizing workflows for deployment on High Performance Clusters <br> - Data warehousing (O(TBytes)) |
-| Summer 2020           |  Master's Thesis in Life Science Informatics| University of Bonn | Visualization and Medical Image and Analysis, Supervisor Prof. Dr. Thomas Schultz | Title: Extracting Most Predictive Subgraphs from Models of Human Brain Connectivity |
-| Summer 2019 | Student Research Assistant | University of Bonn | Visualization and Medical Image and Analysis, Supervisor Prof. Dr. Thomas Schultz |- Research topic: Fiber tracking |
-| Summer 2016, Winter 2016, Summer 2017, Winter 2017| Research Assistant |Design Innovation Center|  Cluster Innovation Center, University of Delhi |- Analysis of EEG data <br> - Analysis of fMRI data from OpenNeuro.org |
-  
-Skills
-======
+**Researcher in Informatics** — Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany *(2022–2025)*
+- Cognitive Computer Vision Lab, Chair of Visual Computing
+- Research at the intersection of Computer Vision and Computational Neuroscience
 
+**M.Sc. Life Science Informatics** — University of Bonn, Germany *(2018–2020)*
+- CGPA: 1.7 / 5.0 (German grading scale)
+- Master's Thesis: *Extracting Most Predictive Subgraphs from Models of Human Brain Connectivity*
+- Supervisor: Prof. Dr. Thomas Schultz
 
-| Programming   |  Deployment  |   Libraries   |  Software Packages  | Data Management/Warehousing |
-| ------------  | ------------ | ------------- | ------------------- | ----------------------------|
-| Java          |  Docker      |   PyTorch     |     mRtrix3         |    DataLad                  |
-| Python        |  SLURM       |   Tensorflow  |     FSL             |    rclone                   |
-| C++           |  Data Lad    |   Nipype      |     Psychopy        |    ownCloud                 |
-| MATLAB        |  Git         |   DiPy        |     SPM             |                             |
-| R             |  CUDA        |   Scalismo    |     Blender                |                             |
-| HTML/CSS      |  Apacha/mySQL web server |   |                    |                             |
-| Scala|            |              |                     |                             |
+**B.Sc. (Hons) Physics** — Miranda House, University of Delhi, India *(2015–2018)*
+- CGPA: 8.35 / 10.0
 
+**All India Senior School Certificate (Science Stream)** — Delhi Public School R.K. Puram
+- Score: 95.5%
 
-Service and leadership
-======
-* President (2016-17), Vidyut, The Physics Society, Miranda House, University of Delhi
+---
 
-Presentations 
-=========== 
-* Poster presentation: CogSci 2024, Title: Processing of scene intrinsics in the visual ventral stream
-* Poster presentation: Cogsci 2023, Title: Perception of Mooney faces: Extreme Generalization through Inverse Rendering?
+## Work Experience
 
+**Researcher** — Cognitive Computer Vision Lab, FAU Erlangen-Nürnberg *(Oct 2022 – Sep 2025)*
+- Conducted research at the intersection of Computer Vision and Neuroscience
+- Developed and evaluated computational models of visual perception
+- Presented work at international venues including ICLR 2025 and CogSci 2024
 
+**Data Analyst & Research Scientist** — Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig *(Mar 2021 – Sep 2022)*
+- Designed end-to-end pipelines for NIRS-EEG and fMRI data processing
+- Ran quality control on MRI scans and optimized NLP models for multimodal neuroimaging data
+- Developed workflows for deployment on High Performance Clusters (HPC)
+- Managed large-scale neuroimaging datasets (O(TBytes)) using DataLad
+
+**Master's Thesis Student** — Visualization & Medical Image Analysis Group, University of Bonn *(Summer 2020)*
+- Supervisor: Prof. Dr. Thomas Schultz
+- Topic: Extracting Most Predictive Subgraphs from Models of Human Brain Connectivity
+
+**Student Research Assistant** — Visualization & Medical Image Analysis Group, University of Bonn *(Summer 2019)*
+- Research topic: Fiber tracking in diffusion MRI
+
+**Research Assistant** — Design Innovation Centre, Cluster Innovation Centre, University of Delhi *(2016–2017)*
+- Analysis of EEG data and fMRI data (OpenNeuro.org)
+
+---
+
+## Skills
+
+**Programming Languages:** Python, R, C++, MATLAB, Java, HTML/CSS, Scala
+
+**Deep Learning & ML:** PyTorch, TensorFlow, Keras, scikit-learn
+
+**Neuroimaging:** FSL, SPM, mRtrix3, Nipype, DiPy, Scalismo, Psychopy
+
+**DevOps & Infrastructure:** Docker, Git, SLURM, CUDA, Apache/MySQL
+
+**Data Management:** DataLad, rclone, ownCloud, Blender
+
+---
+
+## Presentations
+
+- **Poster** — ICLR 2025 Re-Align Workshop, Singapore: *Computer Graphics from a Neuroscientist's Perspective*
+- **Poster** — CogSci 2024: *Processing of Scene Intrinsics in the Ventral Visual Stream for Object Recognition*
+- **Poster** — CogSci 2023: *Perception of Mooney Faces: Extreme Generalization through Inverse Rendering?*
+- **Lecture** — Computational Visual Perception, FAU Erlangen-Nürnberg *(Dec 2024)*: *Neuroimaging: An Overview*
+
+---
+
+## Service & Leadership
+
+- **Reviewer** — UniReps 2025 Workshop (NeurIPS)
+- **Organizer & Helper** — VMV 2025, FAU Erlangen-Nürnberg
+- **President** *(2016–17)* — Vidyut, The Physics Society, Miranda House, University of Delhi
