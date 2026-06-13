@@ -1,7 +1,7 @@
 ---
 title: 'Crossing and Kissing Fibers in Fiber Tractography'
-date: 2026-06-14
-permalink: /posts/2026-06-14-crossing-kissing-fibers/
+date: 2026-06-13
+permalink: /posts/2026-06-13-crossing-kissing-fibers/
 tags:
   - Neuroimaging
   - DIPY
