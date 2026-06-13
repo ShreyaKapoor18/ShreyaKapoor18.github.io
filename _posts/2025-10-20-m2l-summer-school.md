@@ -7,36 +7,27 @@ tags:
 
 ---
 
-So, I have travelled to multiple conferences as a part of my research career, but the M2L summer school 2025 (8-12 September 2025) was a bit special for me. I enjoyed every bit of the Summer Schoool. 
-It was super exciting to visit the Mediterenean countries and also see the enthusiasm of undergraduates. Before the summer school started, we got an invitation to the slack and 
-also the whole schedule of the summer school which was nothing short of great! 
+Among the many conferences and schools I have attended as part of my research career, the **M2L Summer School 2025** (8–12 September 2025, Split, Croatia) stands out as a particularly memorable experience. The school brought together 300 participants selected from over 1,700 applicants — a testament to the growing competitiveness of the field and the quality of those drawn to it.
 
-Here is the program of the summer school (https://www.m2lschool.org/program).
-300 applicants were selected from a group of 1700 applicants, which was great to see! The field of Machine Learning has become increasingly competitive! Almost everyone wants to study
-the hottest topic of the century and work with the best researchers in the field. Which is true, one has to be selected from a big pool of applicants in order to make it there. 
+The program was ambitious and well-structured, covering topics ranging from transformers to diffusion models. Full details are available at the [M2L program page](https://www.m2lschool.org/program).
 
-On the first day, we flew to Split, Croatia and checked into the dorms provided by the university. The weather was Mediterenean (and sweaty, hence my hair was very itchy).
-I was not that tired from my flight hence we went to the Gala dinner organized by the team of the summer school at Gal Split with an amazing buffet!
+## Arrival and Setting
 
-After that the next day, I was in my dreamland. All the math and physics formulas related to Machine learning started! You can see what all was shared during the summer school
-according to the program mentioned above (from transofmers to diffusion models). The program was nothing short of great for me! It was so nice to share my research in an international environment! I was specially happy with the great food that came along during the summer school (yes the catering was great). 
+The school was hosted at the University of Split, Croatia. Participants arrived to a warm Mediterranean climate and were welcomed with a Gala dinner on the first evening — a great opportunity to meet fellow researchers and set the tone for the week ahead.
 
-What I liked most about the program was that there were attendees who got in only because they were interested, it was purely merit based and not based on a Pay and Go model. Hence your peers
-were the ones who held a genuine interest in Machine Learning. Particularly open idea for me was the research taking place in industry, particularly at DeepMind. 
-I remember, when I was a kid, I used to see a Hindi kids show called as `Karishma Ka Karishma` which was probably the first idea of an Artificial Intelligence in the world of Hindi Cinema 
-and the talk about the robots performing a 'Slam Dunk' and trying to correct itself after performing a wrong one was super interesting, it was almost like the future we used to see in the 
-telivision series is in front of us. All of this has been put together by magical phenonmenon called as `Programming` but without explicit rules. One must have studied about the axiom 
-that the MLP is a universal function approximator, which it indded is (the axiom states that if we have an MLP with a single layer but still an infinite number of neurons, it can learn any 
-type of function or mapping). So far it is true, every day there is a new advance in machine learning, which I thought would be guided by the principles of the inner workings of the brain, but 
-it does not seem to be so! Much of modern AI is being guided by advances in compute and not by the inner workings of the brain! Modern Artificial Intelligence does not need to know how the brain is
-working at every level in order to do the same tasks as the brain. 
+## Academic Programme
 
-All this takes me back to the movie the imitiation game, where Alan Turing during his questioning in jail is asked 'Can machines think?' and the whole idea put forward that what is thinking?
-Two humans think differently, can we say that one thinks and the other does not. Hence, machines might think differently as compared to humans, but it does not mean that they don't think at 
-all? I pondered over all these questions as an enthusiastic scientist at the summer school!
+The lectures covered a broad range of current topics in machine learning, from the mathematical foundations to state-of-the-art architectures. What made the programme especially valuable was the opportunity to present my own research in an international setting and receive feedback from peers across different institutions and backgrounds.
 
+A particularly thought-provoking theme running through the week was the relationship between biological intelligence and modern AI: to what extent do advances in machine learning reflect — or depart from — our understanding of the brain? Much of contemporary AI progress appears driven by advances in compute and scale rather than by insights into neural computation, which raises interesting open questions for researchers working at the intersection of neuroscience and machine learning.
 
-Here is a showcase of all the pictures from the summer school!
+## Selection and Community
+
+The merit-based selection process ensured that attendees were genuinely motivated by their scientific interest in machine learning — not merely by access or institutional affiliation. This created a stimulating peer environment with rich discussions both inside and outside the lecture halls.
+
+## Photo Gallery
+
+Here is a selection of photos from the school:
 
 <table>
 <tr>
@@ -49,6 +40,4 @@ Here is a showcase of all the pictures from the summer school!
 <td><img src="https://github.com/user-attachments/assets/5d4a482b-e651-4933-a1f1-e951224a51e6" width="200"/></td>
 <td><img src="https://github.com/user-attachments/assets/deb92f7f-a672-48cd-9f6b-f4c2a5f80c25" width="200"/></td>
 </tr>
-
 </table>
-

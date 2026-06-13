@@ -8,23 +8,15 @@ redirect_from:
 ---
 
 
-I am actively looking for Data Science and Machine Learning roles in Data Science and Computer Vision. I aim to explore Data Science, ML, and AI roles in the industrial sector or a corresponding research position.
+I am a researcher and engineer at the intersection of **Machine Learning**, **Computer Vision**, and **Computational Neuroscience**. I am actively seeking roles in Data Science, Machine Learning, and AI — both in industry and research.
 
-Previously, I worked as a Research Scientist in the Learning in Early Childhood group at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. There, I led the design of end-to-end pipelines for processing Neuroimaging data, merging technical expertise with insights into human cognitive development.
+Previously, I worked as a Research Scientist in the Learning in Early Childhood group at the **Max Planck Institute for Human Cognitive and Brain Sciences** (Leipzig, Germany), where I led the design of end-to-end pipelines for processing neuroimaging data, integrating technical expertise with insights into human cognitive development.
 
-I hold a B.Sc. (Hons) in Physics (2018) and an M.Sc. in Life Science Informatics (2020). My transition from Physics to Life Science Informatics reflects my passion for exploring complex and unconstrained systems, such as the human brain.
+I hold a **B.Sc. (Hons) in Physics** (2018) and an **M.Sc. in Life Science Informatics** (2020). My interdisciplinary background spans physics, neuroscience, and machine learning, with a particular focus on understanding visual perception through computational models.
 
-Beyond academics, I thrive on connecting with people and gaining fresh perspectives. In my free time, I enjoy reading popular science literature and expressing myself through dance. Currently, I am also exploring AI applications for the industry. 
+My research interests include representational alignment between humans and machines, computer graphics-based approaches to studying brain function, and the application of deep learning to neuroimaging. I am passionate about building bridges between neuroscience and AI.
 
-The first project that got me interested in Artificial Intelligence and Neuroscience:
-[Alphago, where DeepMind's algorithm defeated Lee Sedol](https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1892s). 
-
-
-- 🌱 I'm currently learning advanced Computer Science, ML and Bioinformatics!
-- 👯 I'm looking to collaborate on open-source projects.
-- 💬 Ask me about Python, Data Science, Machine Learning, and Cognitive Science.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:shreya.kapoor@fau.de) | [Twitter](https://x.com/SKapoor_18) | [Personal Email](mailto:kapoorshreya18@gmail.com)
-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShreyaKapoor18.yourrepository)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:kapoorshreya18@gmail.com) | [Twitter](https://x.com/SKapoor_18)
 
 
 
