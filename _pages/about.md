@@ -68,11 +68,6 @@ I attended the [Cohere Summer School Online](https://sites.google.com/cohere.com
 ### ICLR 2025 Presentation
 I had the opportunity to present my work at **ICLR 2025**, one of the premier conferences in machine learning, held in **Singapore**. During the poster session, I showcased my research titled **"Computer Graphics from a Neuroscientist's Perspective"** ([PDF](https://openreview.net/pdf/eb668c23a06ea3251696f545172c0001b66245d2.pdf)), engaging with domain experts from both computer science and neuroscience. The constructive feedback and interdisciplinary discussions significantly informed and shaped the next phase of my project.
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
-  <img src="https://raw.githubusercontent.com/ShreyaKapoor18/ShreyaKapoor18.github.io/master/_posts/ICLR.png" alt="ICLR 2025" width="300"/>
-  <img src="https://raw.githubusercontent.com/ShreyaKapoor18/ShreyaKapoor18.github.io/master/_posts/swimming_pool.JPG" alt="Village Hotel Changi infinity pool" width="300"/>
-</div>
-
 [Read my full ICLR 2025 recap →](/posts/2025-05-05-blog-post)
 
 ---
