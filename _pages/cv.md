@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <p>
-  <a href="/files/ShreyaKapoor_CV.pdf" target="_blank" class="btn btn--primary">Download CV (PDF)</a>
+  <a href="https://www.overleaf.com/read/ghbcncdbxqqs#689d6d" target="_blank" rel="noopener noreferrer" class="btn btn--primary">View / Download CV (Overleaf)</a>
 </p>
 
 ---
