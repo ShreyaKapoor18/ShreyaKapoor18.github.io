@@ -145,6 +145,11 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Prof. Bishop's new Computer Vision Notebook](https://www.youtube.com/watch?v=kuvFoXzTK3E)
 - [The day after AGI](https://www.youtube.com/watch?v=mmKAnHz36v0&t=315s)
 -  [The Brain that Changes Itself](https://www.youtube.com/watch?v=sK51nv8mo-o&t=72s)  - the first documentary which inspired me about the plasticity of the brain and how are abilities are not fixed over life. We can change it over time with Neurofeedback, also use BCIs (brain computer interfaces) for Neurofeedback!
+- [Go to Zero](https://www.youtube.com/watch?v=OkAwsrHMTgM)
+- [Artificial Intelligence helps to detect diseases | Daniel Rückert is Humboldt Professor for AI](https://www.youtube.com/watch?v=db62ot5S21c)
+- [Love the Science](https://www.youtube.com/watch?v=-KlVQmgfrvY)
+- [The Hardest Problem AI Ever Solved, with Google DeepMind CEO](https://www.youtube.com/watch?v=C0gErQtnNFE) - the best moment to use AI
+- [How AI Cracked the Protein Folding Code and Won a Nobel Prize](https://www.youtube.com/watch?v=cx7l9ZGFZkw)
   
 
 
@@ -174,11 +179,33 @@ This work showed that completely paralyzed patients could communicate using EEG-
 
 > A landmark study demonstrating early non-invasive brain–computer communication for locked-in patients.
 
+---
+
+### Habilitation Thesis — Simone Frintrop (2014)
+
+A habilitation thesis from the University of Bonn (now Professor at the University of Hamburg), focused on computational visual attention systems. Frintrop's work bridges biological and computational models of visual attention, covering saliency detection, top-down and bottom-up attention mechanisms, and their application to object detection and robot vision. Her earlier PhD work produced VOCUS — a widely cited visual attention system — and this habilitation extends those ideas further. A must-read for anyone interested in how machines can learn to "look" the way humans do.
+
+🔗 [Read the thesis](https://www.inf.uni-hamburg.de/en/inst/ab/cv/media/frintrop-paper-bonn/frintrop-habilitation-thesis-2014.pdf)
+
+---
+
+### Hierarchical Neural Networks for Image Interpretation — Sven Behnke (2003)
+
+One of the greatest theses in the field of neural networks and computer vision. Behnke's work laid foundational ideas for hierarchical convolutional architectures, influencing how we think about deep learning for visual processing long before the deep learning era took off.
+
+🔗 [Read the thesis](https://www.ais.uni-bonn.de/behnke/books/Behnke2003.pdf)
+
+> A visionary work on hierarchical neural networks that anticipated many ideas central to modern deep learning.
+
 
 
 ## Books I suggest 
 
 a. The Singularity is near by Ray Kurzweil <br>
-b. Investigation into the laws of thought by George boole on Boolean Algebra <br>
+b. Investigation into the laws of thought by George Boole on Boolean Algebra <br>
+c. Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter <br>
+d. Thinking, Fast and Slow by Daniel Kahneman <br>
+e. The Brain from Inside Out by György Buzsáki <br>
+f. How the Mind Works by Steven Pinker <br>
 
 Thank you for visiting my profile!
