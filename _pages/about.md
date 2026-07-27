@@ -197,6 +197,16 @@ One of the greatest theses in the field of neural networks and computer vision. 
 
 > A visionary work on hierarchical neural networks that anticipated many ideas central to modern deep learning.
 
+---
+
+### Assembly of Protein Tertiary Structures from Fragments — Simons, Kooperberg, Huang & Baker (1997)
+
+The founding paper of Rosetta, David Baker's protein structure prediction method. What makes it interesting from a physics standpoint is the framing: folding is posed as a search for the global minimum of an energy landscape, tackled with Monte Carlo fragment assembly rather than full atomistic simulation — a statistical-mechanics approach to what is otherwise an intractable combinatorial problem. Baker later shared the 2024 Nobel Prize in Chemistry for this line of work, alongside the AlphaFold team.
+
+🔗 [Read the paper](https://doi.org/10.1006/jmbi.1997.1348)
+
+> Physics-first protein folding: energy landscapes and Monte Carlo sampling, decades before deep learning took over the field.
+
 
 
 ## Books I suggest 
