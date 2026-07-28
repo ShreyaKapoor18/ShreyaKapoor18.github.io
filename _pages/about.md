@@ -93,6 +93,14 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white) | ![SciPy](https://img.shields.io/badge/-SciPy-green?style=flat-square&logo=sci-py&logoColor=white) | ![Plotly](https://img.shields.io/badge/-Plotly-3A4F75?style=flat-square&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-007A5A?style=flat-square&logo=python&logoColor=white)
 
 
+## Things I find fascinating
+
+- **The Twin Paradox** - a thought experiment in special relativity where one twin travels near light-speed and returns younger than the twin who stayed on Earth, illustrating that time dilation is real and asymmetric between the two reference frames. It's not just theoretical: after 340 days on the ISS, astronaut Scott Kelly returned about 5 milliseconds younger than his identical twin, Mark Kelly.
+- **ALS (motor neuron disease)** - a progressive neurodegenerative disease that destroys the motor neurons controlling voluntary muscle movement; it remains incurable, though a small number of patients, most famously Stephen Hawking, have survived for decades rather than the typical 2-5 years.
+- **Gene expression control** - not every cell with the same DNA does the same thing; regulatory mechanisms like transcription factors, epigenetic markers (e.g. DNA methylation, histone modification), and RNA splicing determine which genes actually get turned into proteins, when, and in which cell type.
+- **Molecular docking & simulation** - computational methods that predict how a small molecule (e.g. a drug candidate) binds to a target protein, and simulate the resulting structure's dynamics over time; central to modern structure-based drug design, building on the same energy-landscape ideas behind protein folding.
+- **Predictive coding & the free energy principle** - Karl Friston's theory that the brain isn't a passive receiver of sensory input but a prediction machine, constantly generating a model of the world and updating it only when reality violates its expectations; perception becomes controlled hallucination, corrected by prediction error, an idea now quietly shaping how we think about learning in artificial neural networks too.
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -219,13 +227,5 @@ c. [Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter](https:/
 d. [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) <br>
 e. [The Brain from Inside Out by György Buzsáki](https://www.amazon.com/Brain-Inside-Out-Gy%C3%B6rgy-Buzs%C3%A1ki/dp/0190905387) <br>
 f. [How the Mind Works by Steven Pinker](https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/0393318486) <br>
-
-## Things I find fascinating
-
-- **The Twin Paradox** - a thought experiment in special relativity where one twin travels near light-speed and returns younger than the twin who stayed on Earth, illustrating that time dilation is real and asymmetric between the two reference frames. It's not just theoretical: after 340 days on the ISS, astronaut Scott Kelly returned about 5 milliseconds younger than his identical twin, Mark Kelly.
-- **ALS (motor neuron disease)** - a progressive neurodegenerative disease that destroys the motor neurons controlling voluntary muscle movement; it remains incurable, though a small number of patients, most famously Stephen Hawking, have survived for decades rather than the typical 2-5 years.
-- **Gene expression control** - not every cell with the same DNA does the same thing; regulatory mechanisms like transcription factors, epigenetic markers (e.g. DNA methylation, histone modification), and RNA splicing determine which genes actually get turned into proteins, when, and in which cell type.
-- **Molecular docking & simulation** - computational methods that predict how a small molecule (e.g. a drug candidate) binds to a target protein, and simulate the resulting structure's dynamics over time; central to modern structure-based drug design, building on the same energy-landscape ideas behind protein folding.
-- **Predictive coding & the free energy principle** - Karl Friston's theory that the brain isn't a passive receiver of sensory input but a prediction machine, constantly generating a model of the world and updating it only when reality violates its expectations; perception becomes controlled hallucination, corrected by prediction error, an idea now quietly shaping how we think about learning in artificial neural networks too.
 
 Thank you for visiting my profile!
