@@ -37,12 +37,10 @@ Here are some stats related to my recent activity on GitHub:
 ### Things I find fascinating
 
 - **The Twin Paradox** - a thought experiment in special relativity where one twin travels near light-speed and returns younger than the twin who stayed on Earth, illustrating that time dilation is real and asymmetric between the two reference frames. It's not just theoretical: after 340 days on the ISS, astronaut Scott Kelly returned about 5 milliseconds younger than his identical twin, Mark Kelly.
-- **Schrödinger's Cat** - a thought experiment illustrating the weirdness of quantum superposition: a cat in a sealed box is, according to quantum mechanics, simultaneously alive and dead until observed.
-- **Electrical signals of the brain (EEG)** - electroencephalography measures the brain's electrical activity via electrodes on the scalp, capturing the synchronized firing of neurons as voltage fluctuations over time.
-- **DNA & RNA** - DNA stores genetic information as a double-stranded sequence of base pairs; it's transcribed into single-stranded messenger RNA, which is then translated by ribosomes into the proteins that build and run the cell.
 - **ALS (motor neuron disease)** - a progressive neurodegenerative disease that destroys the motor neurons controlling voluntary muscle movement; it remains incurable, though a small number of patients, most famously Stephen Hawking, have survived for decades rather than the typical 2-5 years.
 - **Gene expression control** - not every cell with the same DNA does the same thing; regulatory mechanisms like transcription factors, epigenetic markers (e.g. DNA methylation, histone modification), and RNA splicing determine which genes actually get turned into proteins, when, and in which cell type.
 - **Molecular docking & simulation** - computational methods that predict how a small molecule (e.g. a drug candidate) binds to a target protein, and simulate the resulting structure's dynamics over time; central to modern structure-based drug design, building on the same energy-landscape ideas behind protein folding.
+- **Predictive coding & the free energy principle** - Karl Friston's theory that the brain isn't a passive receiver of sensory input but a prediction machine, constantly generating a model of the world and updating it only when reality violates its expectations; perception becomes controlled hallucination, corrected by prediction error, an idea now quietly shaping how we think about learning in artificial neural networks too.
 
 
 ## Activities and Highlights
