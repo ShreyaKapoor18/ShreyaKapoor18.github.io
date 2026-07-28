@@ -36,6 +36,16 @@ Here are some stats related to my recent activity on GitHub:
 
 ✨ **Fun Fact:** I love watching action movies and programming in my free time.  
 
+### Things I find fascinating
+
+- **The Twin Paradox** - a thought experiment in special relativity where one twin travels near light-speed and returns younger than the twin who stayed on Earth, illustrating that time dilation is real and asymmetric between the two reference frames. It's not just theoretical: after 340 days on the ISS, astronaut Scott Kelly returned about 5 milliseconds younger than his identical twin, Mark Kelly.
+- **Schrödinger's Cat** - a thought experiment illustrating the weirdness of quantum superposition: a cat in a sealed box is, according to quantum mechanics, simultaneously alive and dead until observed.
+- **Electrical signals of the brain (EEG)** - electroencephalography measures the brain's electrical activity via electrodes on the scalp, capturing the synchronized firing of neurons as voltage fluctuations over time.
+- **DNA & RNA** - DNA stores genetic information as a double-stranded sequence of base pairs; it's transcribed into single-stranded messenger RNA, which is then translated by ribosomes into the proteins that build and run the cell.
+- **ALS (motor neuron disease)** - a progressive neurodegenerative disease that destroys the motor neurons controlling voluntary muscle movement; it remains incurable, though a small number of patients, most famously Stephen Hawking, have survived for decades rather than the typical 2-5 years.
+- **Gene expression control** - not every cell with the same DNA does the same thing; regulatory mechanisms like transcription factors, epigenetic markers (e.g. DNA methylation, histone modification), and RNA splicing determine which genes actually get turned into proteins, when, and in which cell type.
+- **Molecular docking & simulation** - computational methods that predict how a small molecule (e.g. a drug candidate) binds to a target protein, and simulate the resulting structure's dynamics over time; central to modern structure-based drug design, building on the same energy-landscape ideas behind protein folding.
+
 
 ## Activities and Highlights
 
@@ -150,6 +160,9 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Love the Science](https://www.youtube.com/watch?v=-KlVQmgfrvY)
 - [The Hardest Problem AI Ever Solved, with Google DeepMind CEO](https://www.youtube.com/watch?v=C0gErQtnNFE) - the best moment to use AI
 - [How AI Cracked the Protein Folding Code and Won a Nobel Prize](https://www.youtube.com/watch?v=cx7l9ZGFZkw)
+- [Boltzmann Machines](https://www.youtube.com/watch?v=iCS1ds0UDP8) - one of my favorite topics in ML, and part of my semester research
+- [Lecture 11/16: Hopfield Nets and Boltzmann Machines](https://www.youtube.com/watch?v=IP3W7cI01VY) - from Coursera; Hopfield networks are foundational to understanding energy-based models
+- [Biggest Breakthroughs in Biology and Neuroscience: 2025](https://www.youtube.com/watch?v=mf5envOypNU)
   
 
 
@@ -216,6 +229,6 @@ b. Investigation into the laws of thought by George Boole on Boolean Algebra <br
 c. Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter <br>
 d. Thinking, Fast and Slow by Daniel Kahneman <br>
 e. The Brain from Inside Out by György Buzsáki <br>
-f. How the Mind Works by Steven Pinker <br>
+f. [How the Mind Works by Steven Pinker](https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/0393318486) <br>
 
 Thank you for visiting my profile!
