@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 
-I am a researcher and engineer at the intersection of **Machine Learning**, **Computer Vision**, and **Computational Neuroscience**. I am actively seeking roles in Data Science, Machine Learning, and AI — both in industry and research.
+I am an interdisciplinary researcher with research interests at the intersection of **Machine Learning**, **Computer Science**, and **Computational Neuroscience**. I am actively seeking roles in Data Science, Machine Learning, and AI, both in industry and research.
 
-Previously, I worked as a Research Scientist in the Learning in Early Childhood group at the **Max Planck Institute for Human Cognitive and Brain Sciences** (Leipzig, Germany), where I led the design of end-to-end pipelines for processing neuroimaging data, integrating technical expertise with insights into human cognitive development.
+I hold a **B.Sc. (Hons) in Physics** from Miranda House, University of Delhi, and an **M.Sc. in Life Science Informatics** from the University of Bonn, Germany, after which I worked as a Research Scientist in the Learning in Early Childhood research group, developing preprocessing pipelines for multimodal data, including EEG-fNIRS, OPM-MEG, and EEG-fMRI, which led to insights into human cognitive development as well as vision.
 
-I hold a **B.Sc. (Hons) in Physics** (2018) and an **M.Sc. in Life Science Informatics** (2020). My interdisciplinary background spans physics, neuroscience, and machine learning, with a particular focus on understanding visual perception through computational models.
-
-My research interests include representational alignment between humans and machines, computer graphics-based approaches to studying brain function, and the application of deep learning to neuroimaging. I am passionate about building bridges between neuroscience and AI.
+During my time at **FAU Erlangen-Nuremberg**, I focused on representational alignment between humans and machines using a computer graphics-based approach to understand the brain, including reconstructing faces with the Basel Face Model. My broader research interests also include applying deep learning to neuroimaging, and I am passionate about building bridges between neuroscience and AI.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:kapoorshreya18@gmail.com) | [Twitter](https://x.com/SKapoor_18)
 
@@ -224,11 +222,11 @@ The founding paper of Rosetta, David Baker's protein structure prediction method
 
 ## Books I suggest 
 
-a. The Singularity is near by Ray Kurzweil <br>
-b. Investigation into the laws of thought by George Boole on Boolean Algebra <br>
-c. Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter <br>
-d. Thinking, Fast and Slow by Daniel Kahneman <br>
-e. The Brain from Inside Out by György Buzsáki <br>
+a. [The Singularity is Near by Ray Kurzweil](https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889) <br>
+b. [An Investigation of the Laws of Thought by George Boole](https://www.amazon.com/Investigation-Laws-Thought-George-Boole/dp/0486600289) on Boolean Algebra <br>
+c. [Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) <br>
+d. [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) <br>
+e. [The Brain from Inside Out by György Buzsáki](https://www.amazon.com/Brain-Inside-Out-Gy%C3%B6rgy-Buzs%C3%A1ki/dp/0190905387) <br>
 f. [How the Mind Works by Steven Pinker](https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/0393318486) <br>
 
 Thank you for visiting my profile!
