@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" width="400" height="340" font-family="Helvetica, Arial, sans-serif">
+  <rect width="400" height="340" fill="#ffffff"/>
+
+  <!-- Necker cube: two offset squares joined corner-to-corner, all edges
+       drawn identically so there is no occlusion cue to disambiguate
+       which square is "in front". -->
+  <g fill="none" stroke="#2a2a2a" stroke-width="2.5" stroke-linejoin="round">
+    <!-- back (upper-right) square -->
+    <rect x="150" y="50" width="140" height="140"/>
+    <!-- front (lower-left) square -->
+    <rect x="100" y="130" width="140" height="140"/>
+    <!-- connecting edges between corresponding corners -->
+    <line x1="150" y1="50" x2="100" y2="130"/>
+    <line x1="290" y1="50" x2="240" y2="130"/>
+    <line x1="290" y1="190" x2="240" y2="270"/>
+    <line x1="150" y1="190" x2="100" y2="270"/>
+  </g>
+
+  <text x="200" y="320" text-anchor="middle" font-size="15" fill="#52514e">Which square is in front? The wireframe alone can't say.</text>
+</svg>
