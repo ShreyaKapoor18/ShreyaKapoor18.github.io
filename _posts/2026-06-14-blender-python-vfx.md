@@ -2,6 +2,7 @@
 title: 'Blender Python Scripting for Visual Effects'
 date: 2026-06-14
 permalink: /posts/2026-06-14-blender-python-vfx/
+excerpt: "Blender ships with a full Python API (bpy) that exposes nearly every feature of the interface: object creation, material nodes, particle systems, geometry nodes, and rendering."
 tags:
   - Blender
   - Python

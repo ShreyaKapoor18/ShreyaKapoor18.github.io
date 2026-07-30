@@ -2,6 +2,7 @@
 title: 'Crossing and Kissing Fibers in Fiber Tractography'
 date: 2026-06-13
 permalink: /posts/2026-06-13-crossing-kissing-fibers/
+excerpt: "One of the central challenges in diffusion MRI tractography is that a single imaging voxel is 2-3 mm on a side, yet contains thousands of axons that may run in completely different directions."
 tags:
   - Neuroimaging
   - DIPY

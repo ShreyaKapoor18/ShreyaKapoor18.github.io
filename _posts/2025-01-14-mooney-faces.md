@@ -2,6 +2,7 @@
 title: 'Perception of Mooney faces'
 date: 2025-01-14
 permalink: /posts/2025-01-14-mooney-faces/
+excerpt: "PDF of the paper Perception of Mooney Faces: Extreme Generalization through Inverse Rendering."
 tags:
   - Travelling
 

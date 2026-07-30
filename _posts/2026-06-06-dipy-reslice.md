@@ -2,6 +2,7 @@
 title: 'Reslicing Diffusion MRI Datasets to Isotropic Voxels'
 date: 2026-06-06
 permalink: /posts/2026-06-06-dipy-reslice/
+excerpt: "Many diffusion MRI acquisitions use anisotropic voxels, for example 2 x 2 x 3 mm. This can cause issues downstream in tractography and registration algorithms that assume isotropic spatial resolution."
 tags:
   - Neuroimaging
   - DIPY

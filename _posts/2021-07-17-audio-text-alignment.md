@@ -2,6 +2,7 @@
 title: 'Audio and Text Alignment'
 date: 2021-07-17
 permalink: /posts/2021-07-17-audio-text-alignment/
+excerpt: "In Neuroimaging language experiments it is often required that an orthographic transcript of the text is well aligned with the audio."
 tags:
   - Neuroscience
 ---

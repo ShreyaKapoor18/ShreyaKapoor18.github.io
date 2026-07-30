@@ -2,6 +2,7 @@
 title: 'MEG Beamforming: Forward and Inverse Problems'
 date: 2026-06-13
 permalink: /posts/2026-06-13-meg-beamforming/
+excerpt: "Magnetoencephalography (MEG) measures the tiny magnetic fields produced by synchronised postsynaptic currents in cortical neurons. Compared to EEG, MEG is less distorted by the skull and scalp, giving it better spatial resolution."
 tags:
   - Neuroimaging
   - MEG

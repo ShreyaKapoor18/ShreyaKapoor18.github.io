@@ -2,6 +2,7 @@
 title: 'Generating Structural Connectomes from the Human Connectome Project'
 date: 2026-06-13
 permalink: /posts/2026-06-13-hcp-connectome/
+excerpt: "The Human Connectome Project (HCP) provides high-quality diffusion MRI data for over 1,000 healthy young adults, acquired at 3T with 1.25 mm isotropic resolution and 90 gradient directions at b=3000 s/mm^2."
 tags:
   - Neuroimaging
   - Diffusion MRI

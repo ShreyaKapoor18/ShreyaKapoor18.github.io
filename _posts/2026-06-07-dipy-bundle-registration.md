@@ -2,6 +2,7 @@
 title: 'Groupwise Bundle Registration with DIPY'
 date: 2026-06-07
 permalink: /posts/2026-06-07-dipy-bundle-registration/
+excerpt: "When comparing white matter bundles across subjects, they first need to be coregistered to a common space. DIPY's groupwise_slr function does this without requiring a pre-defined atlas."
 tags:
   - Neuroimaging
   - DIPY
