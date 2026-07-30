@@ -8,8 +8,5 @@ date: 2024-12-04
 location: "Erlangen, Germany"
 ---
 Winter Semester 2024 <br>
-
 I held a lecture on ``Neuroimaging: An Overview`` for the course Computational Visual Perception under the supervision of Prof. Dr. Bernhard Egger. 
-
-
 <iframe src="https://drive.google.com/file/d/1yrtRnKrdQraGbnAacmN0hDwnTzRUGQth/preview" width="100%" height="500px"></iframe>
