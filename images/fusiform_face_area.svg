@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" font-family="Helvetica, Arial, sans-serif">
+  <rect width="600" height="420" fill="#ffffff"/>
+
+  <!-- Brain outline, simplified lateral view -->
+  <path d="M 120 180
+           C 100 100, 200 50, 300 55
+           C 400 60, 470 100, 480 170
+           C 490 210, 470 230, 460 240
+           C 470 260, 460 290, 430 300
+           C 440 320, 415 345, 385 340
+           C 380 365, 340 375, 315 358
+           C 290 380, 240 375, 225 350
+           C 190 355, 160 335, 155 305
+           C 120 300, 100 270, 110 240
+           C 90 220, 95 195, 120 180 Z"
+        fill="#f2e9e4" stroke="#7a6a5f" stroke-width="3"/>
+
+  <!-- Sylvian fissure / temporal lobe separation, simplified -->
+  <path d="M 140 230 C 220 250, 320 250, 420 220"
+        fill="none" stroke="#b3a294" stroke-width="2.5"/>
+
+  <!-- Temporal lobe -->
+  <path d="M 150 235 C 170 280, 230 310, 300 300 C 350 293, 390 270, 410 235
+           C 400 260, 360 285, 300 292 C 240 298, 185 275, 150 235 Z"
+        fill="#efe1d8" stroke="#b3a294" stroke-width="1.5"/>
+
+  <!-- Fusiform face area highlight -->
+  <ellipse cx="300" cy="292" rx="55" ry="20" fill="#d98e73" opacity="0.85"/>
+  <ellipse cx="300" cy="292" rx="55" ry="20" fill="none" stroke="#a8442a" stroke-width="2"/>
+
+  <!-- Label -->
+  <line x1="300" y1="292" x2="300" y2="380" stroke="#a8442a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="300" y="400" text-anchor="middle" font-size="18" fill="#3a3a3a" font-weight="600">Fusiform Face Area (FFA)</text>
+  <text x="300" y="35" text-anchor="middle" font-size="16" fill="#3a3a3a">Ventral temporal cortex, lateral view (simplified)</text>
+</svg>
