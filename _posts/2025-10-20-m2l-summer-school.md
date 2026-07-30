@@ -1,6 +1,6 @@
 ---
 title: 'Visit to M2L Summer School'
-date: 2025-10-20
+date: 2026-01-13
 permalink: /posts/2025-10-20-m2l-summer-school/
 tags:
   - Travelling

@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Interactive Visualization in DIPY with FURY'
-date: 2026-06-07
+date: 2026-06-14
 permalink: /posts/2026-06-07-dipy-viz-advanced/
 excerpt: "DIPY uses FURY (Fast Unified Renderer for You) as its 3D visualization engine. Beyond static screenshots, FURY supports interactive scenes with sliders, opacity controls, and video export."
 tags:

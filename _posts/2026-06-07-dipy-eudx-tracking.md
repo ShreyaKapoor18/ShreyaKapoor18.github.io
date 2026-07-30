@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Local Fiber Tracking with EuDX'
-date: 2026-06-07
+date: 2026-06-14
 permalink: /posts/2026-06-07-dipy-eudx-tracking/
 excerpt: "Local tractography follows fibers step by step, estimating the local fiber direction at each point from an ODF model. This tutorial covers a full end-to-end local tracking pipeline using DIPY: ODF fitting, stopping criteria, seeding, and the EuDX algorithm."
 tags:

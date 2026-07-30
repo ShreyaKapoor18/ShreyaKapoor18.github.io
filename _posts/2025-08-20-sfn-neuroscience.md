@@ -1,6 +1,6 @@
 ---
 title: 'SfN Neuroscience Chapter'
-date: 2025-08-20
+date: 2026-01-13
 permalink: /posts/2025-08-20-sfn-neuroscience/
 tags:
   - Travelling

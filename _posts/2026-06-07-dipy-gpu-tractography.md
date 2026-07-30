@@ -1,6 +1,6 @@
 ---
 title: 'GPU-Accelerated Tractography with DIPY and cuslines'
-date: 2026-06-07
+date: 2026-06-14
 permalink: /posts/2026-06-07-dipy-gpu-tractography/
 excerpt: "For whole-brain tractography the bottleneck is usually the inner tracking loop: at each step you evaluate a model, sample a direction, and move the streamline. DIPY supports offloading this to GPU via the cuslines library."
 tags:

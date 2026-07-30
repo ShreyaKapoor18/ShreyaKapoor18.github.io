@@ -1,6 +1,6 @@
 ---
 title: 'The Unfathomable Power of Information'
-date: 2020-02-02
+date: 2019-12-18
 permalink: /posts/2020-02-02-power-of-information/
 tags:
   - Computer Science, Physics

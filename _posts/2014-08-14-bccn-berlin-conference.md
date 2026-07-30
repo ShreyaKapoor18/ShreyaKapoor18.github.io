@@ -1,6 +1,6 @@
 ---
 title: 'First Conference at BCCN Berlin'
-date: 2014-08-14
+date: 2020-02-02
 permalink: /posts/2014-08-14-bccn-berlin-conference/
 tags:
   - Travelling

@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started with DIPY'
-date: 2026-06-06
+date: 2026-06-14
 permalink: /posts/2026-06-06-dipy-quickstart/
 excerpt: "DIPY is an open-source Python library for the analysis of diffusion MRI data. In this first tutorial I walk through the basics: loading data, building a gradient table, and visualizing axial slices."
 tags:
