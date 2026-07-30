@@ -68,6 +68,10 @@ class TinyFaceNet(nn.Module):
         return self.fc(pooled), pooled
 ```
 
+Sampled examples from that generator, faces on top and objects below:
+
+![Sampled synthetic training images, faces with a fixed eyes-and-mouth layout on top, objects with randomly placed blobs below](../../images/prosopagnosia_samples.png)
+
 Training for 30 epochs on 2,000 synthetic images and evaluating on 400 held-out ones gives a per-unit selectivity profile, with one unit standing out as the network's de facto "FFA":
 
 ![Per-unit face selectivity in the toy network, unit 4 most face-selective, unit 7 least](../../images/prosopagnosia_selectivity.png)
