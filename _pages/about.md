@@ -104,11 +104,11 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extracting the Most Predictive Subgraphs from the Human Connectome](/posts/2026-07-30-msc-thesis-connectome/)
 - [Prosopagnosia: When Faces Refuse to Stick](/posts/2026-07-30-prosopagnosia/)
 - [Visit to M2L Summer School](/posts/2025-10-20-m2l-summer-school/)
 - [My experience at ICLR 2025](/posts/2025-05-05-iclr-2025/)
 - [Remote Development using Pycharm](https://medium.com/@shreyakapoor18/remote-development-using-pycharm-f89f08f13928)
-- [A Necessity, A Comfort or Both](https://medium.com/@shreyakapoor18/a-necessity-a-comfort-or-both-890aa9015b9d)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
