@@ -57,6 +57,18 @@ Looking back, though, the two case studies aren't really a controlled comparison
 
 No single study runs that comparison directly, but two more recent, same-modality papers get close to what I'd want to put side by side. On the fully-automatic side, Yan et al. (2021) train a deep network directly on raw fMRI time series, no generative model in between, to classify schizophrenia, bipolar disorder, and schizoaffective disorder. On the generative-embedding side, Galioulline et al. (2023) fit a regression DCM to resting-state fMRI and use the fitted connectivity parameters, not raw voxels, to predict future depressive episodes in a large UK Biobank sample. Both fMRI, both recent, one with a hand-specified generative model in the pipeline and one without, which is roughly the controlled comparison the original report was missing. Hjelm et al. (2014), already in the references below but not one of the case studies above, is an earlier example of the same fully-automatic, fMRI-based idea: RBMs applied directly to fMRI to identify intrinsic functional networks.
 
+| | Fully-automatic (Yan et al., 2021) | Generative embedding (Galioulline et al., 2023) |
+|---|---|---|
+| Modality | resting-state fMRI, raw time series | resting-state fMRI |
+| Generative model | none, deep network operates directly on the time series | regression DCM (rDCM), hand-specified effective-connectivity model |
+| Fit per | shared across the whole dataset (single end-to-end network) | subject |
+| Embedding / features | learned deep-network activations | fitted rDCM connectivity parameters |
+| Prior neurobiological knowledge required | no | yes |
+| Interpretability | low, a downstream clustering step is used to probe structure post hoc | high, connectivity parameters map onto specific circuits |
+| Task | classify schizophrenia vs. bipolar disorder vs. schizoaffective disorder | predict a future depressive episode (UK Biobank cohort) |
+
+Still not a fully controlled comparison, since the diagnostic tasks differ, but it's much closer than the original report managed: same modality, same era, one generative model in the loop and one out.
+
 What keeps pulling me back to RBMs specifically is that they're one of the last widely-used architectures trained by something other than end-to-end backpropagation through a single loss, Gibbs sampling and contrastive divergence instead, straight out of statistical mechanics, doing representation learning before "representation learning" was the standard vocabulary for it. That's also roughly the intuition behind Hopfield networks and other energy-based models: define an energy landscape, let training reshape it, let inference be a walk downhill.
 
 ### The original seminar report
