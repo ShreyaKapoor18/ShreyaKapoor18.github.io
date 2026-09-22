@@ -2,11 +2,10 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
 
 I am an interdisciplinary researcher with research interests at the intersection of **Machine Learning**, **Computer Science**, and **Computational Neuroscience**. I am actively seeking roles in Data Science, Machine Learning, and AI, both in industry and research.
 
@@ -15,10 +14,6 @@ I hold a **B.Sc. (Hons) in Physics** from Miranda House, University of Delhi, an
 During my time at **FAU Erlangen-Nuremberg**, I focused on representational alignment between humans and machines using a computer graphics-based approach to understand the brain, including reconstructing faces with the Basel Face Model. My broader research interests also include applying deep learning to neuroimaging, and I am passionate about building bridges between neuroscience and AI.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/shreyakapoor18) | [Email](mailto:kapoorshreya18@gmail.com) | [Twitter](https://x.com/SKapoor_18)
-
-
-
-  
 
 ## Activity
 
@@ -29,11 +24,9 @@ Here are some stats related to my recent activity on GitHub:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaKapoor18" alt="Top Languages" />
 </div>
 
-
 ## 🌟 Highlights
 
-✨ **Fun Fact:** I love watching action movies and programming in my free time.  
-
+✨ **Fun Fact:** I love watching action movies and programming in my free time.
 
 ## Activities and Highlights
 
@@ -92,7 +85,6 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 ### 🖥️ Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0077B5?style=flat-square&logo=matplotlib&logoColor=white) | ![SciPy](https://img.shields.io/badge/-SciPy-green?style=flat-square&logo=sci-py&logoColor=white) | ![Plotly](https://img.shields.io/badge/-Plotly-3A4F75?style=flat-square&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-007A5A?style=flat-square&logo=python&logoColor=white)
 
-
 ## Things I find fascinating
 
 - **The Twin Paradox** - a thought experiment in special relativity where one twin travels near light-speed and returns younger than the twin who stayed on Earth, illustrating that time dilation is real and asymmetric between the two reference frames. It's not just theoretical: after 340 days on the ISS, astronaut Scott Kelly returned about 5 milliseconds younger than his identical twin, Mark Kelly.
@@ -116,12 +108,10 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyakapoor18)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/skapoor_18)
 
-## Some talks which I suggest to watch 
+## Some talks which I suggest to watch
 - [Encoding and Decoding speech from the brain](https://www.youtube.com/watch?v=aM6N7aTUJxI)
 - ['Godfather of AI' predicts ALL jobs will be in 'wiped out' by AI](https://www.youtube.com/watch?v=eddSGoSYnSU)
 - [Artificial Intelligence helps to detect diseases | Daniel Rückert is Humboldt Professor for AI](https://www.youtube.com/watch?v=db62ot5S21c)
-
-
 
 ## Courses I suggest to audit
 
@@ -131,8 +121,6 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [Introduction to Deep Learning](https://www.youtube.com/watch?v=GvezxUdLrEk)
 - [Introduction to Neuroscience](https://www.youtube.com/watch?v=ba-HMvDn_vU)
 - [Introduction to Brain Computer Interfaces](https://www.consilium.europa.eu/media/fh4fw3fn/art_braincomputerinterfaces_2024_web.pdf)
-
-
 
 ## Podcasts and Videos I suggest watching
 
@@ -154,30 +142,23 @@ I attended the Society for Neuroscience chapter in Singapore, where I participat
 - [The day after AGI](https://www.youtube.com/watch?v=mmKAnHz36v0&t=315s)
 -  [The Brain that Changes Itself](https://www.youtube.com/watch?v=sK51nv8mo-o&t=72s)  - the first documentary which inspired me about the plasticity of the brain and how are abilities are not fixed over life. We can change it over time with Neurofeedback, also use BCIs (brain computer interfaces) for Neurofeedback!
 - [Go to Zero](https://www.youtube.com/watch?v=OkAwsrHMTgM)
-- [Artificial Intelligence helps to detect diseases | Daniel Rückert is Humboldt Professor for AI](https://www.youtube.com/watch?v=db62ot5S21c)
 - [Love the Science](https://www.youtube.com/watch?v=-KlVQmgfrvY)
 - [The Hardest Problem AI Ever Solved, with Google DeepMind CEO](https://www.youtube.com/watch?v=C0gErQtnNFE) - the best moment to use AI
 - [How AI Cracked the Protein Folding Code and Won a Nobel Prize](https://www.youtube.com/watch?v=cx7l9ZGFZkw)
 - [Boltzmann Machines](https://www.youtube.com/watch?v=iCS1ds0UDP8) - one of my favorite topics in ML, and part of my semester research
 - [Lecture 11/16: Hopfield Nets and Boltzmann Machines](https://www.youtube.com/watch?v=IP3W7cI01VY) - from Coursera; Hopfield networks are foundational to understanding energy-based models
 - [Biggest Breakthroughs in Biology and Neuroscience: 2025](https://www.youtube.com/watch?v=mf5envOypNU)
-  
 
-
-
-## Articles, which can also be listened to as a Podcast 
+## Articles, which can also be listened to as a Podcast
 - [NeuroAI](https://www.thetransmitter.org/neuroai/neuroai-a-field-born-from-the-symbiosis-between-neuroscience-ai/)
 
-## Movies I suggest 
+## Movies I suggest
 a. [A Beautiful Mind (about John Nash and Game Theory)](https://www.youtube.com/watch?v=EajIlG_OCvw) <br>
 b. [The Imitation Game](https://www.youtube.com/watch?v=kP3m4EZmIFU) <br>
 c. [Theory of Everything](https://www.youtube.com/watch?v=Salz7uGp72c) <br>
 d. [Inception](https://www.youtube.com/watch?v=xFtci3ejfbk) <br>
 e. [Shutter Island](https://www.youtube.com/watch?v=v8yrZSkKxTA) <br>
 f. [Sully](https://www.youtube.com/watch?v=mjKEXxO2KNE) <br>
-
-
-
 
 ## Recommended Reading
 
@@ -218,9 +199,7 @@ The founding paper of Rosetta, David Baker's protein structure prediction method
 
 > Physics-first protein folding: energy landscapes and Monte Carlo sampling, decades before deep learning took over the field.
 
-
-
-## Books I suggest 
+## Books I suggest
 
 a. [The Singularity is Near by Ray Kurzweil](https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889) <br>
 b. [An Investigation of the Laws of Thought by George Boole](https://www.amazon.com/Investigation-Laws-Thought-George-Boole/dp/0486600289) on Boolean Algebra <br>
